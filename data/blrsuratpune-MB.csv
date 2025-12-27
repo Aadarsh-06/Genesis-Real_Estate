@@ -1,0 +1,1353 @@
+City,Title,Location,Bedrooms,Price (Lakhs),Area (sqft),Price per sqft,Rent (INR/month),Property Type,Posted By,Furnishing,Possession
+Bangalore,2 BHK Apartment in Banashankari,Banashankari,2 BHK,4.52,1170,386.32,953,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Sarjapur Road,Sarjapur Road,2 BHK,4.71,1265,372.33,995,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Jayanagar,Jayanagar,2 BHK,4.81,1226,392.33,1068,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in JP Nagar,JP Nagar,2 BHK,4.81,1262,381.14,978,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Electronic City,Electronic City,2 BHK,4.85,1192,406.88,1119,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,4.95,1238,399.84,1043,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hebbal,Hebbal,2 BHK,5.07,1173,432.23,1027,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Marathahalli,Marathahalli,2 BHK,5.26,1288,408.39,1049,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Bellandur,Bellandur,2 BHK,5.31,1168,454.62,1112,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Yelahanka,Yelahanka,2 BHK,5.49,1243,441.67,965,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Bellandur,Bellandur,3 BHK,9.1,1140,798.25,2144,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Hebbal,Hebbal,3 BHK,9.33,1120,833.04,2177,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Banashankari,Banashankari,3 BHK,9.39,1117,840.64,2222,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in JP Nagar,JP Nagar,3 BHK,9.96,1196,832.78,2262,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Marathahalli,Marathahalli,3 BHK,10,1184,844.59,2269,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Jayanagar,Jayanagar,3 BHK,10.21,1225,833.47,2198,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Sarjapur Road,Sarjapur Road,3 BHK,10.32,1185,870.89,2153,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,10.66,1181,902.62,2159,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in BTM Layout,BTM Layout,3 BHK,10.76,1182,910.32,1959,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Yelahanka,Yelahanka,3 BHK,10.9,1130,964.6,2071,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,4 BHK Apartment in JP Nagar,JP Nagar,4 BHK,13.55,1377,984.02,3111,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Sarjapur Road,Sarjapur Road,4 BHK,14.26,1427,999.3,3402,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,4 BHK Apartment in Yelahanka,Yelahanka,4 BHK,14.46,1469,984.34,3397,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,4 BHK Apartment in Marathahalli,Marathahalli,4 BHK,14.92,1334,1118.44,3195,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,4 BHK Apartment in Malleshwaram,Malleshwaram,4 BHK,15.73,1334,1179.16,3391,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,4 BHK Apartment in Banashankari,Banashankari,4 BHK,15.81,1426,1108.7,3082,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,4 BHK Apartment in Hennur,Hennur,4 BHK,16.08,1422,1130.8,3411,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,4 BHK Apartment in BTM Layout,BTM Layout,4 BHK,16.14,1388,1162.82,3376,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,4 BHK Apartment in Hoodi,Hoodi,4 BHK,16.18,1460,1108.22,3334,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Bellandur,Bellandur,4 BHK,16.19,1362,1188.69,3028,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Hennur,Hennur,3 BHK,18.94,1694,1118.06,3870,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,3 BHK,19.05,1612,1181.76,4255,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Bommanahalli,Bommanahalli,3 BHK,19.23,1711,1123.9,4215,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Yelahanka,Yelahanka,3 BHK,19.7,1591,1238.21,4122,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Malleshwaram,Malleshwaram,3 BHK,19.98,1608,1242.54,4043,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Hoodi,Hoodi,3 BHK,20.31,1731,1173.31,4460,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Bellandur,Bellandur,3 BHK,20.42,1694,1205.43,3763,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Kasavanahalli,Kasavanahalli,3 BHK,20.42,1695,1204.72,4165,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Sarjapur Road,Sarjapur Road,3 BHK,20.49,1709,1198.95,4531,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in BTM Layout,BTM Layout,3 BHK,21.84,1597,1367.56,3836,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in BTM Layout,BTM Layout,3 BHK,27.27,1184,2303.21,6329,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Hoodi,Hoodi,3 BHK,27.28,1168,2335.62,6421,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Bommanahalli,Bommanahalli,3 BHK,27.31,1194,2287.27,6304,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,3 BHK,27.87,1163,2396.39,5641,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Yelahanka,Yelahanka,3 BHK,28.33,1145,2474.24,6067,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Whitefield,Whitefield,3 BHK,31.25,1145,2729.26,6024,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Hennur,Hennur,3 BHK,31.76,1183,2684.7,5997,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Malleshwaram,Malleshwaram,3 BHK,32.42,1192,2719.8,6072,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Kasavanahalli,Kasavanahalli,3 BHK,32.5,1203,2701.58,6080,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,32.78,1181,2775.61,6034,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Malleshwaram,Malleshwaram,2 BHK,36.99,1456,2540.52,7673,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,38.08,1551,2455.19,8409,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in HSR Layout,HSR Layout,2 BHK,38.42,1522,2524.31,8210,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Bommanahalli,Bommanahalli,2 BHK,41.04,1514,2710.7,8014,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,2 BHK,41.81,1556,2687.02,7611,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Koramangala,Koramangala,2 BHK,42.29,1429,2959.41,8798,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Hebbal,Hebbal,3 BHK,42.98,1507,2852.02,9666,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hoodi,Hoodi,2 BHK,43.37,1532,2830.94,8884,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Hennur,Hennur,2 BHK,43.77,1528,2864.53,8340,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Kasavanahalli,Kasavanahalli,2 BHK,43.85,1424,3079.35,8139,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Whitefield,Whitefield,2 BHK,43.93,1494,2940.43,8457,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Kasavanahalli,Kasavanahalli,3 BHK,44.14,1539,2868.1,9881,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Hoodi,Hoodi,3 BHK,44.82,1505,2978.07,10231,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Bommanahalli,Bommanahalli,3 BHK,46.25,1564,2957.16,9437,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,47.91,1491,3213.28,10415,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,48.26,1447,3335.18,9185,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Whitefield,Whitefield,3 BHK,49.17,1525,3224.26,9248,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Koramangala,Koramangala,3 BHK,49.41,1531,3227.3,9471,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,2 BHK,49.5,692,7153.18,9598,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Whitefield,Whitefield,2 BHK,49.84,687,7254.73,11432,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,3 BHK,50.33,1557,3232.5,9883,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Bommanahalli,Bommanahalli,2 BHK,50.47,649,7776.58,10874,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Indiranagar,Indiranagar,3 BHK,50.93,1576,3231.6,9302,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Jayanagar,Jayanagar,2 BHK,51.74,647,7996.91,11438,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,53.74,676,7949.7,10051,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Electronic City,Electronic City,2 BHK,53.75,659,8156.3,11096,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Koramangala,Koramangala,2 BHK,54.01,696,7760.06,9985,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in HSR Layout,HSR Layout,2 BHK,54.43,685,7945.99,11445,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hebbal,Hebbal,2 BHK,54.55,696,7837.64,10820,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Kasavanahalli,Kasavanahalli,2 BHK,54.74,706,7753.54,10514,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Koramangala,Koramangala,3 BHK,55.94,1177,4752.76,11271,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Indiranagar,Indiranagar,3 BHK,56.13,1194,4701.01,12522,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Jayanagar,Jayanagar,3 BHK,56.35,1210,4657.02,13286,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Whitefield,Whitefield,3 BHK,59.84,1226,4880.91,11980,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in JP Nagar,JP Nagar,3 BHK,59.88,1127,5313.22,12103,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Banashankari,Banashankari,3 BHK,61.41,1146,5358.64,12210,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Hebbal,Hebbal,3 BHK,62.03,1113,5573.23,11946,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Marathahalli,Marathahalli,3 BHK,62.81,1213,5178.07,11322,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,62.85,1141,5508.33,12855,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Yelahanka,Yelahanka,3 BHK,63.11,1422,4438.12,14814,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Banashankari,Banashankari,3 BHK,63.3,1427,4435.88,14668,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Sarjapur Road,Sarjapur Road,3 BHK,63.61,1433,4438.94,15136,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Bellandur,Bellandur,3 BHK,64.91,1441,4504.51,15736,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,65.29,1154,5657.71,13163,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Jayanagar,Jayanagar,3 BHK,67.01,1389,4824.33,14149,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in JP Nagar,JP Nagar,3 BHK,67.96,1279,5313.53,16965,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Sarjapur Road,Sarjapur Road,3 BHK,68.25,1255,5438.25,14685,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Marathahalli,Marathahalli,3 BHK,68.27,1445,4724.57,13717,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Marathahalli,Marathahalli,3 BHK,68.36,1169,5847.73,17118,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Hoodi,Hoodi,3 BHK,68.52,1198,5719.53,15246,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Marathahalli,Marathahalli,2 BHK,69.19,702,9856.13,14716,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Hebbal,Hebbal,2 BHK,69.33,657,10552.51,15446,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Yelahanka,Yelahanka,3 BHK,69.92,1252,5584.66,15919,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Yelahanka,Yelahanka,2 BHK,70.44,663,10624.43,16091,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Bellandur,Bellandur,3 BHK,70.64,1227,5757.13,16406,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Hennur,Hennur,3 BHK,71.17,1241,5734.89,15490,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in BTM Layout,BTM Layout,2 BHK,72.18,664,10870.48,15875,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,2 BHK,72.3,1192,6065.44,15618,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Bellandur,Bellandur,2 BHK,72.37,1136,6370.6,17018,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Hoodi,Hoodi,2 BHK,72.71,1176,6182.82,18099,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in JP Nagar,JP Nagar,3 BHK,72.77,1340,5430.6,13225,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Malleshwaram,Malleshwaram,2 BHK,73.01,645,11319.38,15581,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Sarjapur Road,Sarjapur Road,2 BHK,73.7,1149,6414.27,17773,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Bellandur,Bellandur,2 BHK,73.78,646,11421.05,14797,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Malleshwaram,Malleshwaram,3 BHK,74.52,1213,6143.45,16682,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Jayanagar,Jayanagar,2 BHK,74.89,659,11364.19,14204,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Yelahanka,Yelahanka,2 BHK,74.99,1145,6549.34,15929,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,75.11,1442,5208.74,13810,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in BTM Layout,BTM Layout,3 BHK,75.84,1197,6335.84,16773,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Malleshwaram,Malleshwaram,2 BHK,76.42,1191,6416.46,16701,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Sarjapur Road,Sarjapur Road,2 BHK,76.56,673,11375.93,15094,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Indiranagar,Indiranagar,3 BHK,76.85,1431,5370.37,13731,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Hebbal,Hebbal,3 BHK,76.87,1434,5360.53,14995,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Banashankari,Banashankari,3 BHK,77.49,1166,6645.8,17061,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Whitefield,Whitefield,3 BHK,79.83,643,12415.24,16636,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Marathahalli,Marathahalli,2 BHK,79.86,1103,7240.25,16638,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Whitefield,Whitefield,2 BHK,79.96,1553,5148.74,19256,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Hoodi,Hoodi,3 BHK,80.59,657,12266.36,19541,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in JP Nagar,JP Nagar,2 BHK,81.25,668,12163.17,14441,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Banashankari,Banashankari,2 BHK,81.38,686,11862.97,16047,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Bommanahalli,Bommanahalli,3 BHK,81.85,698,11726.36,19874,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in HSR Layout,HSR Layout,2 BHK,82.36,1696,4856.13,20241,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Kasavanahalli,Kasavanahalli,2 BHK,82.58,1533,5386.82,18388,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Malleshwaram,Malleshwaram,2 BHK,83.09,1574,5278.91,16327,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Kasavanahalli,Kasavanahalli,3 BHK,84.08,661,12720.12,18105,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Yelahanka,Yelahanka,2 BHK,85.28,1471,5797.42,19603,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Hennur,Hennur,2 BHK,85.31,1139,7489.9,18207,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in BTM Layout,BTM Layout,2 BHK,85.6,1161,7372.95,15116,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in BTM Layout,BTM Layout,3 BHK,86.23,654,13185.02,16750,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,2 BHK,86.48,1695,5102.06,18872,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Hoodi,Hoodi,1 BHK,86.74,1191,7282.96,17945,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Electronic City,Electronic City,1 BHK,86.87,1164,7463.06,20786,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Kasavanahalli,Kasavanahalli,2 BHK,87.17,1093,7975.3,17065,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,1 BHK,87.93,1135,7747.14,21057,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hennur,Hennur,2 BHK,88.13,1478,5962.79,16458,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Bommanahalli,Bommanahalli,2 BHK,89.28,1557,5734.1,19188,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,2 BHK,90.17,1106,8152.8,22021,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hennur,Hennur,2 BHK,90.6,1721,5264.38,17597,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,2 BHK,90.66,1478,6133.96,16399,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Hebbal,Hebbal,1 BHK,90.92,1199,7582.99,20549,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Electronic City,Electronic City,2 BHK,91.4,1124,8131.67,20104,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in BTM Layout,BTM Layout,2 BHK,91.59,1532,5978.46,17412,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Indiranagar,Indiranagar,1 BHK,91.59,1181,7755.29,21691,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,91.81,647,14190.11,17935,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in HSR Layout,HSR Layout,2 BHK,92.24,1558,5920.41,19282,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,3 BHK,92.56,706,13110.48,17695,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Koramangala,Koramangala,2 BHK,92.83,1670,5558.68,19295,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Bommanahalli,Bommanahalli,2 BHK,93.17,1095,8508.68,21300,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Hennur,Hennur,3 BHK,94.47,690,13691.3,19253,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hoodi,Hoodi,2 BHK,94.98,1633,5816.29,20138,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in HSR Layout,HSR Layout,1 BHK,95.01,1124,8452.85,19384,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hoodi,Hoodi,2 BHK,95.15,1557,6111.11,17048,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in HSR Layout,HSR Layout,1 BHK,95.29,1430,6663.64,20913,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Whitefield,Whitefield,2 BHK,95.43,1600,5964.38,17802,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Whitefield,Whitefield,1 BHK,95.62,1194,8008.38,19648,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in Jayanagar,Jayanagar,1 BHK,95.68,1509,6340.62,22946,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Koramangala,Koramangala,3 BHK,95.79,691,13862.52,19227,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Kasavanahalli,Kasavanahalli,2 BHK,95.89,1641,5843.39,18192,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,95.94,1100,8721.82,19420,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Malleshwaram,Malleshwaram,3 BHK,96.46,645,14955.04,18406,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Bommanahalli,Bommanahalli,2 BHK,96.61,1638,5898.05,19662,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Jayanagar,Jayanagar,2 BHK,96.75,1178,8213.07,20875,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Malleshwaram,Malleshwaram,2 BHK,97,1592,6092.96,18218,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Koramangala,Koramangala,2 BHK,97.23,1189,8177.46,21852,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Koramangala,Koramangala,1 BHK,97.41,1189,8192.6,18960,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Hebbal,Hebbal,2 BHK,97.66,1187,8227.46,19528,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,98.04,1718,5706.64,17141,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in HSR Layout,HSR Layout,2 BHK,100.2,1190,8420.17,21464,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Kasavanahalli,Kasavanahalli,1 BHK,100.44,1198,8383.97,18916,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Bommanahalli,Bommanahalli,1 BHK,100.58,1174,8567.29,21359,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Whitefield,Whitefield,2 BHK,101.97,1176,8670.92,19885,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Banashankari,Banashankari,1 BHK,102.68,1525,6733.11,22578,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Kasavanahalli,Kasavanahalli,2 BHK,104.33,1180,8841.53,19730,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in JP Nagar,JP Nagar,1 BHK,105.16,1431,7348.71,20143,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Indiranagar,Indiranagar,1 BHK,105.44,1496,7048.13,20360,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Hebbal,Hebbal,1 BHK,105.89,1447,7317.9,23384,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Koramangala,Koramangala,1 BHK,107.44,1540,6976.62,23657,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Electronic City,Electronic City,1 BHK,108.8,1551,7014.83,19778,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Marathahalli,Marathahalli,1 BHK,110.04,1467,7501.02,22322,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Marathahalli,Marathahalli,2 BHK,111.03,1682,6601.07,25283,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Hebbal,Hebbal,2 BHK,111.37,1715,6493.88,26265,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Whitefield,Whitefield,1 BHK,112.87,1510,7474.83,23035,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in JP Nagar,JP Nagar,2 BHK,114.08,1697,6722.45,25989,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Jayanagar,Jayanagar,2 BHK,114.62,1674,6847.07,25415,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Sarjapur Road,Sarjapur Road,2 BHK,115.24,1635,7048.32,23243,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Marathahalli,Marathahalli,2 BHK,115.24,1252,9204.47,24820,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in Banashankari,Banashankari,1 BHK,117.69,1513,7778.59,24808,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in JP Nagar,JP Nagar,1 BHK,117.74,1499,7854.57,24496,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Electronic City,Electronic City,2 BHK,118.43,1691,7003.55,27157,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Indiranagar,Indiranagar,1 BHK,118.58,1555,7625.72,27789,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Yelahanka,Yelahanka,2 BHK,120.7,1233,9789.13,23568,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Koramangala,Koramangala,2 BHK,121.01,1628,7433.05,25549,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Koramangala,Koramangala,1 BHK,122.94,1555,7906.11,26964,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in HSR Layout,HSR Layout,1 BHK,123.29,668,18456.59,24485,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Marathahalli,Marathahalli,1 BHK,123.31,1444,8539.47,24384,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Electronic City,Electronic City,1 BHK,124.8,674,18516.32,25971,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,125.38,1683,7449.79,24850,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Banashankari,Banashankari,2 BHK,126.26,1228,10281.76,24294,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Jayanagar,Jayanagar,3 BHK,126.45,1088,11622.24,28118,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in HSR Layout,HSR Layout,1 BHK,127.15,1437,8848.3,27187,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Bellandur,Bellandur,2 BHK,127.2,1749,7272.73,26841,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Indiranagar,Indiranagar,1 BHK,127.5,646,19736.84,29671,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Banashankari,Banashankari,2 BHK,127.66,1626,7851.17,24626,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Sarjapur Road,Sarjapur Road,2 BHK,127.89,1173,10902.81,28144,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Bellandur,Bellandur,1 BHK,128.13,683,18759.88,28108,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hebbal,Hebbal,2 BHK,128.28,1226,10463.3,24887,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Marathahalli,Marathahalli,1 BHK,128.51,695,18490.65,25193,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in Whitefield,Whitefield,1 BHK,128.53,1481,8678.6,29216,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Malleshwaram,Malleshwaram,3 BHK,128.78,1139,11306.41,27787,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Jayanagar,Jayanagar,1 BHK,129.31,1461,8850.79,24690,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Bellandur,Bellandur,2 BHK,129.45,1226,10558.73,23666,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Koramangala,Koramangala,1 BHK,130.93,692,18920.52,29109,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,132.76,1191,11146.94,27289,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Electronic City,Electronic City,1 BHK,132.98,1436,9260.45,29223,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Hebbal,Hebbal,3 BHK,133.4,1116,11953.41,27579,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in JP Nagar,JP Nagar,1 BHK,133.51,675,19779.26,28364,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Jayanagar,Jayanagar,1 BHK,133.72,649,20604.01,28648,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Sarjapur Road,Sarjapur Road,3 BHK,133.79,1123,11913.62,28940,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Banashankari,Banashankari,1 BHK,134.23,645,20810.85,25407,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in BTM Layout,BTM Layout,3 BHK,134.65,1120,12022.32,28123,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Electronic City,Electronic City,2 BHK,135.22,1214,11138.39,24079,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Jayanagar,Jayanagar,2 BHK,135.65,1288,10531.83,27388,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in JP Nagar,JP Nagar,2 BHK,136.04,1250,10883.2,24339,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Hebbal,Hebbal,1 BHK,137.18,1576,8704.31,25698,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Hebbal,Hebbal,1 BHK,137.9,701,19671.9,27287,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Malleshwaram,Malleshwaram,2 BHK,140.38,1247,11257.42,29921,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,5 BHK Apartment in Hennur,Hennur,5 BHK,140.78,676,20825.44,29914,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in BTM Layout,BTM Layout,2 BHK,142.07,1204,11799.83,32482,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Hennur,Hennur,2 BHK,143.07,1251,11436.45,32139,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Whitefield,Whitefield,2 BHK,143.49,1175,12211.91,29069,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Sarjapur Road,Sarjapur Road,2 BHK,144.15,1184,12174.83,30071,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in JP Nagar,JP Nagar,3 BHK,144.16,1100,13105.45,29048,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Kasavanahalli,Kasavanahalli,3 BHK,146.2,1201,12173.19,30072,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Banashankari,Banashankari,3 BHK,146.25,1125,13000,26925,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,2 BHK,147.44,1174,12558.77,31279,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,3 BHK,147.91,1092,13544.87,36483,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,5 BHK Apartment in Marathahalli,Marathahalli,5 BHK,149.1,677,22023.63,29689,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Hoodi,Hoodi,3 BHK,149.4,1148,13013.94,31302,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Kasavanahalli,Kasavanahalli,2 BHK,149.48,1250,11958.4,28701,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,5 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,5 BHK,149.6,665,22496.24,27748,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,5 BHK Apartment in Malleshwaram,Malleshwaram,5 BHK,150.63,649,23209.55,31325,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,5 BHK Apartment in Kasavanahalli,Kasavanahalli,5 BHK,150.72,648,23259.26,32952,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Bommanahalli,Bommanahalli,3 BHK,151.25,1179,12828.67,32006,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hoodi,Hoodi,2 BHK,152.04,1269,11981.09,33845,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Yelahanka,Yelahanka,3 BHK,152.32,1137,13396.66,26441,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Bellandur,Bellandur,3 BHK,152.98,1095,13970.78,29556,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Marathahalli,Marathahalli,3 BHK,153.1,1196,12801,28744,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Koramangala,Koramangala,3 BHK,153.67,1186,12957,30829,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in BTM Layout,BTM Layout,3 BHK,153.84,1100,13985.45,30339,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,5 BHK Apartment in BTM Layout,BTM Layout,5 BHK,154.53,707,21857.14,32003,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,5 BHK Apartment in Yelahanka,Yelahanka,5 BHK,154.57,668,23139.22,29436,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,5 BHK Apartment in Hoodi,Hoodi,5 BHK,154.66,685,22578.1,31899,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,5 BHK Apartment in Sarjapur Road,Sarjapur Road,5 BHK,155.91,698,22336.68,27704,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,5 BHK Apartment in Bellandur,Bellandur,5 BHK,156.5,680,23014.71,27226,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,157.72,1103,14299.18,35569,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Bommanahalli,Bommanahalli,2 BHK,158.69,1212,13093.23,31891,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Yelahanka,Yelahanka,2 BHK,162.02,1252,12940.89,32141,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Malleshwaram,Malleshwaram,3 BHK,166.7,1167,14284.49,34223,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,169.97,1739,9774.01,37371,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Koramangala,Koramangala,2 BHK,170.06,1277,13317.15,35089,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Indiranagar,Indiranagar,3 BHK,170.15,1619,10509.57,40537,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Hennur,Hennur,3 BHK,171.98,1098,15663.02,35117,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Whitefield,Whitefield,3 BHK,173.41,1149,15092.25,36438,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Jayanagar,Jayanagar,2 BHK,174.6,1186,14721.75,35829,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Whitefield,Whitefield,3 BHK,175.48,1612,10885.86,33870,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Bommanahalli,Bommanahalli,2 BHK,176.11,1223,14399.84,39282,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Bommanahalli,Bommanahalli,3 BHK,176.92,1628,10867.32,35045,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in JP Nagar,JP Nagar,2 BHK,177,1561,11338.89,40658,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Electronic City,Electronic City,2 BHK,178,1179,15097.54,34777,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Banashankari,Banashankari,2 BHK,179.25,1461,12268.99,38276,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,181.1,1655,10942.6,35458,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Marathahalli,Marathahalli,3 BHK,182.24,1551,11749.84,41082,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Marathahalli,Marathahalli,2 BHK,182.62,1491,12248.16,39341,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,3 BHK,182.92,1656,11045.89,41239,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in HSR Layout,HSR Layout,2 BHK,184.34,1230,14986.99,41129,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Bellandur,Bellandur,2 BHK,185.58,1489,12463.4,43224,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,185.8,1492,12453.08,43450,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in JP Nagar,JP Nagar,3 BHK,186.01,1572,11832.7,44453,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Koramangala,Koramangala,3 BHK,186.93,1755,10651.28,36196,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Whitefield,Whitefield,2 BHK,189.05,1198,15780.47,37117,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,1 BHK,189.45,1376,13768.17,42688,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Jayanagar,Jayanagar,3 BHK,190.91,1632,11697.92,35162,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Hebbal,Hebbal,2 BHK,191.82,1512,12686.51,40594,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Banashankari,Banashankari,3 BHK,192.61,1529,12597.12,39680,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Jayanagar,Jayanagar,3 BHK,192.76,1526,12631.72,45532,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in Bommanahalli,Bommanahalli,1 BHK,192.81,1454,13260.66,45415,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Jayanagar,Jayanagar,2 BHK,193.19,1464,13196.04,38171,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in JP Nagar,JP Nagar,3 BHK,194.05,1675,11585.07,35808,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Banashankari,Banashankari,2 BHK,196.69,1262,15585.58,38469,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Hebbal,Hebbal,3 BHK,197.11,1676,11760.74,35154,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Kasavanahalli,Kasavanahalli,1 BHK,197.27,1357,14537.21,47988,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Hebbal,Hebbal,2 BHK,199.18,1248,15959.94,34725,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,2 BHK Apartment in Koramangala,Koramangala,2 BHK,199.5,1436,13892.76,42503,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Malleshwaram,Malleshwaram,1 BHK,199.6,1407,14186.21,45313,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in JP Nagar,JP Nagar,2 BHK,199.78,1181,16916.17,35768,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Bellandur,Bellandur,3 BHK,201.35,1480,13604.73,45224,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,201.36,1269,15867.61,37986,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Yelahanka,Yelahanka,1 BHK,204.71,1344,15231.4,41756,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in BTM Layout,BTM Layout,1 BHK,204.9,1416,14470.34,42716,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Sarjapur Road,Sarjapur Road,3 BHK,205.08,1548,13248.06,45494,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in Hoodi,Hoodi,1 BHK,205.14,1420,14446.48,45120,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Hebbal,Hebbal,3 BHK,205.52,1493,13765.57,39893,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Jayanagar,Jayanagar,3 BHK,207.76,1540,13490.91,45110,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Sarjapur Road,Sarjapur Road,1 BHK,208.41,1334,15622.94,42666,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Yelahanka,Yelahanka,3 BHK,209.46,1472,14229.62,44008,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Electronic City,Electronic City,2 BHK,210.01,1472,14266.98,44484,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,3 BHK,211.46,1571,13460.22,49696,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,211.5,1490,14194.63,43380,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Sarjapur Road,Sarjapur Road,2 BHK,213.24,1527,13964.64,38216,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in BTM Layout,BTM Layout,3 BHK,214.33,1447,14812.02,41406,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Indiranagar,Indiranagar,3 BHK,214.96,1463,14693.1,45883,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,215.72,1579,13661.81,38411,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Bommanahalli,Bommanahalli,3 BHK,217.97,1498,14550.73,48840,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in Hennur,Hennur,1 BHK,220.69,1348,16371.66,44231,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,222.5,1453,15313.15,52366,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Koramangala,Koramangala,3 BHK,226.26,1540,14692.21,51018,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Whitefield,Whitefield,1 BHK,228.02,1424,16012.64,42617,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Whitefield,Whitefield,3 BHK,237.61,1552,15309.92,46511,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in JP Nagar,JP Nagar,3 BHK,238.33,1545,15425.89,44370,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Hebbal,Hebbal,3 BHK,240.39,1444,16647.51,49599,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Bellandur,Bellandur,2 BHK,241.56,1733,13938.83,57548,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Marathahalli,Marathahalli,2 BHK,249.95,1703,14677.04,58025,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Sarjapur Road,Sarjapur Road,2 BHK,251.02,1630,15400,55142,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in JP Nagar,JP Nagar,2 BHK,258.85,1594,16239.02,53913,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,2 BHK Apartment in Banashankari,Banashankari,2 BHK,266.47,1665,16004.2,56363,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Hebbal,Hebbal,2 BHK,266.62,1749,15244.14,49564,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Kasavanahalli,Kasavanahalli,3 BHK,272.25,1348,20196.59,60103,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,273.67,1411,19395.46,60669,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Electronic City,Electronic City,2 BHK,273.9,1684,16264.85,52720,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,2 BHK Apartment in Indiranagar,Indiranagar,2 BHK,274.06,1749,15669.53,53407,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Indiranagar,Indiranagar,3 BHK,274.87,1459,18839.62,63455,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Whitefield,Whitefield,3 BHK,276.2,1420,19450.7,65728,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,2 BHK Apartment in Jayanagar,Jayanagar,2 BHK,278.49,1688,16498.22,51327,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Koramangala,Koramangala,3 BHK,279.27,1433,19488.49,60514,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,2 BHK Apartment in Koramangala,Koramangala,2 BHK,279.63,1613,17336.02,54570,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Hennur,Hennur,3 BHK,283.01,1438,19680.81,66608,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Hoodi,Hoodi,3 BHK,291,1432,20321.23,59577,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Malleshwaram,Malleshwaram,4 BHK,303.4,1742,17416.76,70516,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,4 BHK Apartment in Marathahalli,Marathahalli,4 BHK,305.59,1743,17532.42,74816,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Bommanahalli,Bommanahalli,3 BHK,308.15,1362,22624.82,56900,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,308.52,1465,21059.39,65544,Apartment,Owner,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,3 BHK,321.18,1457,22043.93,60107,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,324.03,1273,25454.05,79187,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Kasavanahalli,Kasavanahalli,3 BHK,325.64,1202,27091.51,79043,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Jayanagar,Jayanagar,4 BHK,326.15,1737,18776.63,62338,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Indiranagar,Indiranagar,3 BHK,327.34,1261,25958.76,74912,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,327.73,1196,27402.17,79355,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Banashankari,Banashankari,4 BHK,328.19,1734,18926.76,75543,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Koramangala,Koramangala,3 BHK,331.56,1201,27606.99,66631,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,3 BHK,339.93,1257,27042.96,78000,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,4 BHK Apartment in Sarjapur Road,Sarjapur Road,4 BHK,340.38,1618,21037.08,62892,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,4 BHK Apartment in JP Nagar,JP Nagar,4 BHK,342.71,1705,20100.29,73438,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,4 BHK Apartment in BTM Layout,BTM Layout,4 BHK,343.75,1646,20883.96,69744,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Bellandur,Bellandur,4 BHK,348.01,1698,20495.29,66458,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,4 BHK Apartment in Hennur,Hennur,4 BHK,355.61,1733,20519.91,62673,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Whitefield,Whitefield,3 BHK,356.69,1236,28858.41,76835,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Hennur,Hennur,3 BHK,356.86,1193,29912.82,71287,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Yelahanka,Yelahanka,4 BHK,361.14,1723,20959.95,62973,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,5 BHK Apartment in Hennur,Hennur,5 BHK,365.84,1446,25300.14,81612,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Hoodi,Hoodi,3 BHK,367.08,1221,30063.88,75441,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,5 BHK Apartment in Marathahalli,Marathahalli,5 BHK,370.59,1563,23710.17,83407,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,5 BHK Apartment in BTM Layout,BTM Layout,5 BHK,383.35,1518,25253.62,91396,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Bommanahalli,Bommanahalli,3 BHK,384.09,1277,30077.53,66593,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,5 BHK Apartment in Sarjapur Road,Sarjapur Road,5 BHK,387.16,1580,24503.8,84968,Apartment,Owner,Unfurnished,Under Construction
+Bangalore,5 BHK Apartment in Hoodi,Hoodi,5 BHK,393.44,1508,26090.19,77368,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,5 BHK Apartment in Malleshwaram,Malleshwaram,5 BHK,394.2,1516,26002.64,81849,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Marathahalli,Marathahalli,3 BHK,406.37,1193,34062.87,98265,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,5 BHK Apartment in Bellandur,Bellandur,5 BHK,408.59,1489,27440.56,78223,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,5 BHK Apartment in Banashankari,Banashankari,5 BHK,413.73,1460,28337.67,80603,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,5 BHK Apartment in Yelahanka,Yelahanka,5 BHK,419.53,1497,28024.72,79321,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,3 BHK Apartment in Koramangala,Koramangala,3 BHK,424.92,1113,38177.9,94726,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Bellandur,Bellandur,3 BHK,435.9,1089,40027.55,96805,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,5 BHK Apartment in Kasavanahalli,Kasavanahalli,5 BHK,437.61,1438,30431.85,82034,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Indiranagar,Indiranagar,3 BHK,441.87,1135,38931.28,98000,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,3 BHK Apartment in Banashankari,Banashankari,3 BHK,456.56,1162,39290.88,84589,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Banashankari,Banashankari,1 BHK,464.31,649,71542.37,101282,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in HSR Layout,HSR Layout,3 BHK,466.33,1131,41231.65,102829,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Indiranagar,Indiranagar,1 BHK,468.42,669,70017.94,107963,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in Jayanagar,Jayanagar,3 BHK,471.9,1164,40541.24,102662,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,4 BHK Apartment in Banashankari,Banashankari,4 BHK,477.86,1555,30730.55,106470,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,3 BHK Apartment in JP Nagar,JP Nagar,3 BHK,477.99,1103,43335.45,84616,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,3 BHK Apartment in Electronic City,Electronic City,3 BHK,478.83,1185,40407.59,102904,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,4 BHK Apartment in Bellandur,Bellandur,4 BHK,482.63,1561,30918,109877,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in JP Nagar,JP Nagar,1 BHK,483.76,679,71245.95,106787,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Marathahalli,Marathahalli,4 BHK,485.43,1552,31277.71,109826,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,3 BHK Apartment in Hebbal,Hebbal,3 BHK,493.89,1144,43172.2,94179,Apartment,Dealer,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Jayanagar,Jayanagar,1 BHK,497.27,704,70634.94,95880,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Koramangala,Koramangala,1 BHK,497.59,662,75164.65,109279,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,4 BHK Apartment in JP Nagar,JP Nagar,4 BHK,498.12,1482,33611.34,98875,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Marathahalli,Marathahalli,1 BHK,505.96,663,76313.73,107158,Apartment,Builder,Fully Furnished,Under Construction
+Bangalore,4 BHK Apartment in Malleshwaram,Malleshwaram,4 BHK,508.72,1424,35724.72,112821,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in Electronic City,Electronic City,1 BHK,517.35,656,78864.33,99858,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Hebbal,Hebbal,1 BHK,518.23,688,75324.13,111451,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,1 BHK Apartment in Bellandur,Bellandur,1 BHK,518.98,647,80213.29,112338,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in HSR Layout,HSR Layout,1 BHK,519.93,677,76799.11,100443,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Hennur,Hennur,4 BHK,521.37,1482,35180.16,99858,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,4 BHK Apartment in Jayanagar,Jayanagar,4 BHK,537.37,1477,36382.53,115337,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,4 BHK Apartment in BTM Layout,BTM Layout,4 BHK,548.19,1559,35162.92,111203,Apartment,Builder,Unfurnished,Under Construction
+Bangalore,4 BHK Apartment in Yelahanka,Yelahanka,4 BHK,567.01,1495,37927.09,108154,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Sarjapur Road,Sarjapur Road,4 BHK,571.6,1536,37213.54,105179,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Hebbal,Hebbal,1 BHK,901.74,1471,61301.16,188968,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Indiranagar,Indiranagar,1 BHK,914.3,1390,65776.98,219516,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Jayanagar,Jayanagar,1 BHK,914.43,1334,68547.98,208151,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in JP Nagar,JP Nagar,1 BHK,943.34,1453,64923.61,208601,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Bommanahalli,Bommanahalli,1 BHK,945.03,1450,65174.48,206457,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,1 BHK Apartment in Whitefield,Whitefield,1 BHK,977.28,1453,67259.46,225370,Apartment,Builder,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Electronic City,Electronic City,1 BHK,993.34,1461,67990.42,207968,Apartment,Builder,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Koramangala,Koramangala,1 BHK,1002.89,1439,69693.54,210572,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Marathahalli,Marathahalli,1 BHK,1003.04,1200,83586.67,227746,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Hennur,Hennur,1 BHK,1008.52,1217,82869.35,225104,Apartment,Owner,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Yelahanka,Yelahanka,1 BHK,1010.03,1206,83750.41,244037,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Banashankari,Banashankari,1 BHK,1014.91,1184,85718.75,209048,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in BTM Layout,BTM Layout,1 BHK,1065.54,1131,94212.2,221893,Apartment,Owner,Fully Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Banashankari,Banashankari,1 BHK,1068.46,1425,74979.65,208935,Apartment,Owner,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in HSR Layout,HSR Layout,1 BHK,1071.04,1454,73661.62,218864,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,1 BHK Apartment in Kasavanahalli,Kasavanahalli,1 BHK,1109.25,1184,93686.66,221928,Apartment,Dealer,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Malleshwaram,Malleshwaram,1 BHK,1165.19,1186,98245.36,250827,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Hoodi,Hoodi,1 BHK,1174.19,1210,97040.5,212695,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,1 BHK Apartment in Sarjapur Road,Sarjapur Road,1 BHK,1177.38,1214,96983.53,219693,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,1 BHK Apartment in Bellandur,Bellandur,1 BHK,1205.42,1201,100368.03,226646,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,4 BHK Apartment in Bellandur,Bellandur,4 BHK,1823.94,1533,118978.47,402838,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Malleshwaram,Malleshwaram,4 BHK,1829.32,1492,122608.58,428957,Apartment,Dealer,Fully Furnished,Under Construction
+Bangalore,4 BHK Apartment in Sarjapur Road,Sarjapur Road,4 BHK,1844.54,1433,128718.77,442823,Apartment,Dealer,Fully Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Hoodi,Hoodi,4 BHK,1891.18,1438,131514.6,443249,Apartment,Builder,Semi-Furnished,Under Construction
+Bangalore,4 BHK Apartment in Bommanahalli,Bommanahalli,4 BHK,1936.92,1528,126761.78,415318,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Kasavanahalli,Kasavanahalli,4 BHK,1963.33,1494,131414.32,415522,Apartment,Dealer,Semi-Furnished,Ready to Move
+Bangalore,4 BHK Apartment in Ramamurthy Nagar,Ramamurthy Nagar,4 BHK,1990.99,1449,137404.42,434701,Apartment,Owner,Semi-Furnished,Ready to Move
+Bangalore,4 BHK Apartment in BTM Layout,BTM Layout,4 BHK,2031.45,1558,130388.32,401118,Apartment,Builder,Unfurnished,Ready to Move
+Bangalore,4 BHK Apartment in Hennur,Hennur,4 BHK,2055.55,1499,137128.09,449833,Apartment,Dealer,Semi-Furnished,Under Construction
+Bangalore,4 BHK Apartment in Yelahanka,Yelahanka,4 BHK,2140.4,1508,141936.34,402279,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Hadapsar,Hadapsar,2 BHK,4.61,665,693.23,1060,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,4.61,649,710.32,1065,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,4.71,673,699.85,1072,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Koregaon Park,Koregaon Park,2 BHK,4.76,665,715.79,999,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,4.9,642,763.24,985,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Viman Nagar,Viman Nagar,2 BHK,5.08,679,748.16,1064,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Baner,Baner,2 BHK,5.12,623,821.83,1101,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Wakad,Wakad,2 BHK,5.12,639,801.25,1058,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Pimpri,Pimpri,2 BHK,5.35,673,794.95,995,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Nigdi,Nigdi,2 BHK,5.45,631,863.71,1112,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,9.01,1291,697.91,1909,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Nigdi,Nigdi,2 BHK,9.64,1334,722.64,2074,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,9.76,1331,733.28,2101,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Baner,Baner,2 BHK,10.33,1407,734.19,1912,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Pimpri,Pimpri,2 BHK,10.38,1295,801.54,1944,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,10.55,1338,788.49,1993,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Hadapsar,Hadapsar,2 BHK,10.59,1306,810.87,1958,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,10.78,1352,797.34,1875,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Wakad,Wakad,2 BHK,10.86,1300,835.38,2021,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Koregaon Park,Koregaon Park,2 BHK,10.95,1332,822.07,1936,Apartment,Dealer,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Kharadi,Kharadi,3 BHK,13.56,1207,1123.45,2862,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Pashan,Pashan,3 BHK,13.81,1168,1182.36,3420,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Magarpatta,Magarpatta,3 BHK,13.99,1215,1151.44,2971,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Aundh,Aundh,3 BHK,14.08,1250,1126.4,3325,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Nigdi,Nigdi,3 BHK,14.34,1254,1143.54,2910,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Hadapsar,Hadapsar,3 BHK,14.35,1249,1148.92,2948,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,14.35,1153,1244.58,3323,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Shivajinagar,Shivajinagar,3 BHK,14.42,1193,1208.72,3368,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Koregaon Park,Koregaon Park,3 BHK,15.78,1247,1265.44,3281,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Pimpri,Pimpri,3 BHK,16.27,1157,1406.22,3108,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,5 BHK Apartment in Magarpatta,Magarpatta,5 BHK,18.83,1629,1155.92,4241,Apartment,Owner,Unfurnished,Under Construction
+Pune,5 BHK Apartment in Pashan,Pashan,5 BHK,19.44,1728,1125,4292,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,5 BHK Apartment in Nigdi,Nigdi,5 BHK,19.83,1721,1152.24,4051,Apartment,Owner,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Bavdhan,Bavdhan,4 BHK,19.83,1363,1454.88,4125,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,5 BHK Apartment in Sus,Sus,5 BHK,19.85,1707,1162.86,4222,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,5 BHK Apartment in Shivajinagar,Shivajinagar,5 BHK,19.86,1616,1228.96,3997,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,5 BHK Apartment in Bavdhan,Bavdhan,5 BHK,19.87,1696,1171.58,3859,Apartment,Dealer,Unfurnished,Under Construction
+Pune,5 BHK Apartment in Warje,Warje,5 BHK,19.99,1750,1142.29,3859,Apartment,Owner,Fully Furnished,Under Construction
+Pune,5 BHK Apartment in Pimple Saudagar,Pimple Saudagar,5 BHK,20.03,1608,1245.65,4349,Apartment,Owner,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Magarpatta,Magarpatta,4 BHK,20.31,1413,1437.37,4300,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Aundh,Aundh,4 BHK,20.75,1397,1485.33,4475,Apartment,Owner,Unfurnished,Under Construction
+Pune,5 BHK Apartment in Aundh,Aundh,5 BHK,20.9,1727,1210.19,3898,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Sus,Sus,4 BHK,20.92,1381,1514.84,4843,Apartment,Owner,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Pimple Saudagar,Pimple Saudagar,4 BHK,20.96,1385,1513.36,4113,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Warje,Warje,4 BHK,21.02,1324,1587.61,4425,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,5 BHK Apartment in Dhanori,Dhanori,5 BHK,21.48,1679,1279.33,4100,Apartment,Builder,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Pashan,Pashan,4 BHK,21.69,1431,1515.72,4901,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Dhanori,Dhanori,4 BHK,22.92,1414,1620.93,4527,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Shivajinagar,Shivajinagar,4 BHK,23.3,1372,1698.25,4613,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Wagholi,Wagholi,4 BHK,23.48,1341,1750.93,4785,Apartment,Owner,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Hinjewadi,Hinjewadi,4 BHK,27.51,821,3350.79,6548,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Bavdhan,Bavdhan,4 BHK,29.08,824,3529.13,6509,Apartment,Owner,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Wagholi,Wagholi,4 BHK,29.16,873,3340.21,5971,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Baner,Baner,4 BHK,30.18,835,3614.37,6357,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,31.56,1256,2512.74,7680,Apartment,Owner,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Sus,Sus,4 BHK,31.82,849,3747.94,6501,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Dhanori,Dhanori,4 BHK,32,839,3814.06,6675,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Pimpri,Pimpri,1 BHK,32.06,1172,2735.49,7839,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Viman Nagar,Viman Nagar,4 BHK,32.08,822,3902.68,6549,Apartment,Builder,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,32.15,1175,2736.17,7339,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Pashan,Pashan,4 BHK,32.3,815,3963.19,6422,Apartment,Owner,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Kothrud,Kothrud,4 BHK,32.51,820,3964.63,6438,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Warje,Warje,1 BHK,32.56,1179,2761.66,7181,Apartment,Owner,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Wagholi,Wagholi,4 BHK,32.58,589,5531.41,7246,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Warje,Warje,4 BHK,32.68,865,3778.03,6595,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Kharadi,Kharadi,4 BHK,33.2,576,5763.89,7751,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Hinjewadi,Hinjewadi,4 BHK,33.96,570,5957.89,7178,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,34.06,1237,2753.44,7488,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Wagholi,Wagholi,1 BHK,34.17,1156,2955.88,7024,Apartment,Dealer,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,34.48,1222,2821.6,7746,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Wakad,Wakad,4 BHK,34.9,568,6144.37,7180,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Pimpri,Pimpri,4 BHK,35.27,575,6133.91,7603,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Kothrud,Kothrud,4 BHK,35.48,543,6534.07,7485,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,35.54,1227,2896.5,7959,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Hadapsar,Hadapsar,4 BHK,35.93,589,6100.17,7906,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Hadapsar,Hadapsar,4 BHK,36.02,1994,1806.42,8448,Apartment,Owner,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Nigdi,Nigdi,4 BHK,36.57,2060,1775.24,7662,Apartment,Owner,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Koregaon Park,Koregaon Park,1 BHK,37.03,1186,3122.26,7406,Apartment,Owner,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Kharadi,Kharadi,1 BHK,37.5,1206,3109.45,7855,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Baner,Baner,4 BHK,37.57,2061,1822.9,8177,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Baner,Baner,4 BHK,37.88,559,6776.39,8164,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Koregaon Park,Koregaon Park,4 BHK,37.89,573,6612.57,7304,Apartment,Owner,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Koregaon Park,Koregaon Park,4 BHK,38.26,1991,1921.65,8066,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Kharadi,Kharadi,4 BHK,39.01,2011,1939.83,8940,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Wakad,Wakad,4 BHK,39.13,1914,2044.41,7622,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Viman Nagar,Viman Nagar,4 BHK,39.55,544,7270.22,7501,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Pimpri,Pimpri,4 BHK,39.71,2034,1952.31,8835,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Viman Nagar,Viman Nagar,4 BHK,40.51,2038,1987.73,9065,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Hinjewadi,Hinjewadi,4 BHK,41.26,1920,2148.96,8194,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Kothrud,Kothrud,4 BHK,41.44,1936,2140.5,8790,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Kharadi,Kharadi,3 BHK,42.79,1370,3123.36,10178,Apartment,Builder,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Pimpri,Pimpri,3 BHK,43.13,1343,3211.47,9720,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Aundh,Aundh,3 BHK,45.38,1434,3164.57,9580,Apartment,Owner,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Koregaon Park,Koregaon Park,3 BHK,45.6,1432,3184.36,10479,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Aundh,Aundh,4 BHK,46.13,2665,1730.96,10201,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Magarpatta,Magarpatta,4 BHK,46.17,2781,1660.19,10094,Apartment,Owner,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Wakad,Wakad,4 BHK,46.83,2718,1722.96,10075,Apartment,Dealer,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Wakad,Wakad,3 BHK,46.92,1305,3595.4,9344,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Baner,Baner,3 BHK,48.28,1378,3503.63,10088,Apartment,Owner,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Hadapsar,Hadapsar,3 BHK,48.34,1275,3791.37,11515,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Shivajinagar,Shivajinagar,3 BHK,48.58,1328,3658.13,10093,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Koregaon Park,Koregaon Park,4 BHK,48.75,2805,1737.97,9787,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Nigdi,Nigdi,3 BHK,49.01,1201,4080.77,11563,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Pimple Saudagar,Pimple Saudagar,2 BHK,49.11,826,5945.52,10519,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Kharadi,Kharadi,4 BHK,49.28,2814,1751.24,10469,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Aundh,Aundh,3 BHK,49.28,1180,4176.27,11219,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Pimpri,Pimpri,4 BHK,49.59,2706,1832.59,10925,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Magarpatta,Magarpatta,3 BHK,49.63,1334,3720.39,9925,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Nigdi,Nigdi,3 BHK,49.85,1369,3641.34,9656,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Dhanori,Dhanori,3 BHK,49.99,1274,3923.86,11535,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Hadapsar,Hadapsar,3 BHK,50.06,1374,3643.38,8742,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,50.83,841,6044,10437,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Pimpri,Pimpri,3 BHK,51.41,1219,4217.39,11338,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Shivajinagar,Shivajinagar,4 BHK,52.02,2739,1899.23,11035,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Nigdi,Nigdi,4 BHK,52.88,2770,1909.03,10699,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Pimple Saudagar,Pimple Saudagar,4 BHK,52.9,2626,2014.47,11454,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Hadapsar,Hadapsar,4 BHK,52.96,2634,2010.63,10857,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,53.07,863,6149.48,11145,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Dhanori,Dhanori,2 BHK,53.41,826,6466.1,10782,Apartment,Owner,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Dhanori,Dhanori,3 BHK,53.76,621,8657,11867,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Hadapsar,Hadapsar,2 BHK,54.17,836,6479.67,11968,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Koregaon Park,Koregaon Park,3 BHK,54.23,1159,4679.03,11827,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,54.31,1411,3849.04,12295,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,54.45,875,6222.86,10987,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Magarpatta,Magarpatta,3 BHK,54.47,637,8551.02,13258,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Pashan,Pashan,2 BHK,54.63,852,6411.97,10306,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Sus,Sus,2 BHK,55.3,880,6284.09,10536,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Aundh,Aundh,3 BHK,55.5,670,8283.58,12044,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,56.38,1163,4847.81,11300,Apartment,Builder,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Pashan,Pashan,3 BHK,56.4,1218,4630.54,10724,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Shivajinagar,Shivajinagar,3 BHK,56.48,1195,4726.36,12150,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Dhanori,Dhanori,2 BHK,56.88,1370,4151.82,11311,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Magarpatta,Magarpatta,3 BHK,56.89,1236,4602.75,10241,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Shivajinagar,Shivajinagar,3 BHK,57.02,657,8678.84,13470,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Pimple Saudagar,Pimple Saudagar,2 BHK,57.32,1308,4382.26,13584,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Nigdi,Nigdi,2 BHK,57.48,814,7061.43,10652,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,57.53,1402,4103.42,12296,Apartment,Dealer,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Pashan,Pashan,3 BHK,57.96,626,9258.79,12874,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Sus,Sus,3 BHK,58,681,8516.89,11156,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Koregaon Park,Koregaon Park,2 BHK,59.03,875,6746.29,11837,Apartment,Owner,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,59.67,1392,4286.64,13558,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,60,1420,4225.35,13353,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,60.65,667,9092.95,13233,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Hadapsar,Hadapsar,3 BHK,61.12,671,9108.79,12387,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Nigdi,Nigdi,3 BHK,61.65,645,9558.14,11963,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Nigdi,Nigdi,2 BHK,61.65,1412,4366.15,11890,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Pashan,Pashan,2 BHK,62.78,1386,4529.58,12878,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Bavdhan,Bavdhan,3 BHK,62.98,650,9689.23,11132,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Bavdhan,Bavdhan,2 BHK,63.02,1394,4520.8,11404,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Sus,Sus,2 BHK,64.18,1299,4940.72,11472,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Viman Nagar,Viman Nagar,3 BHK,64.49,1997,3229.34,13222,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Dhanori,Dhanori,3 BHK,65.57,2054,3192.31,15926,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Baner,Baner,4 BHK,65.6,1742,3765.79,15155,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Kothrud,Kothrud,3 BHK,66.55,2043,3257.46,13986,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Warje,Warje,4 BHK,68.13,1669,4082.09,15201,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Hinjewadi,Hinjewadi,3 BHK,68.33,1931,3538.58,13670,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Warje,Warje,3 BHK,68.87,2018,3412.78,14431,Apartment,Builder,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Wagholi,Wagholi,3 BHK,69.99,1938,3611.46,14947,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Dhanori,Dhanori,4 BHK,70.69,1697,4165.59,13634,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,72.14,1071,6735.76,17686,Apartment,Builder,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Bavdhan,Bavdhan,3 BHK,72.43,1961,3693.52,13869,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Bavdhan,Bavdhan,4 BHK,72.6,1610,4509.32,15312,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Pashan,Pashan,3 BHK,72.89,1978,3685.04,13883,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Wakad,Wakad,4 BHK,73.76,1645,4483.89,14187,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,74.47,1954,3811.16,13198,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Hinjewadi,Hinjewadi,4 BHK,74.64,1690,4416.57,14835,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Hadapsar,Hadapsar,4 BHK,74.84,817,9160.34,16667,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Kothrud,Kothrud,4 BHK,75.31,1665,4523.12,15202,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Wagholi,Wagholi,4 BHK,75.51,1732,4359.7,15885,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Kothrud,Kothrud,4 BHK,75.75,837,9050.18,18317,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Sus,Sus,4 BHK,76.65,1643,4665.25,15871,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Sus,Sus,3 BHK,76.78,2002,3835.16,13261,Apartment,Builder,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Koregaon Park,Koregaon Park,1 BHK,77.06,1058,7283.55,17712,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Baner,Baner,4 BHK,78,863,9038.24,17929,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Viman Nagar,Viman Nagar,4 BHK,78.32,1715,4566.76,16462,Apartment,Owner,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Hadapsar,Hadapsar,4 BHK,78.37,622,12599.68,19743,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Nigdi,Nigdi,4 BHK,79.06,678,11660.77,17551,Apartment,Owner,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Kharadi,Kharadi,4 BHK,79.33,810,9793.83,17812,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Wakad,Wakad,4 BHK,79.46,871,9122.85,16356,Apartment,Builder,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Pimpri,Pimpri,1 BHK,79.63,998,7978.96,17831,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Pimpri,Pimpri,4 BHK,79.63,676,11779.59,17371,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,80.25,1063,7549.39,18222,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,80.32,1033,7775.41,16551,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Wagholi,Wagholi,1 BHK,81.99,1070,7662.62,15114,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,82.38,1494,5514.06,19464,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,82.55,1010,8173.27,18031,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Wakad,Wakad,2 BHK,82.63,1440,5738.19,18880,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Viman Nagar,Viman Nagar,4 BHK,82.83,635,13044.09,17839,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Hinjewadi,Hinjewadi,4 BHK,84.41,883,9559.46,15909,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,84.59,1033,8188.77,17409,Apartment,Owner,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Warje,Warje,1 BHK,85.24,1069,7973.81,15935,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Viman Nagar,Viman Nagar,4 BHK,85.27,859,9926.66,15540,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,85.35,1467,5818,18447,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Nigdi,Nigdi,4 BHK,85.53,854,10015.22,17969,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Pimpri,Pimpri,4 BHK,85.56,807,10602.23,17694,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Koregaon Park,Koregaon Park,4 BHK,85.8,805,10658.39,15533,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Hadapsar,Hadapsar,2 BHK,85.85,1439,5965.95,18170,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Pashan,Pashan,2 BHK,86.12,577,14925.48,19753,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Kharadi,Kharadi,1 BHK,86.35,1027,8407.98,17183,Apartment,Owner,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Baner,Baner,4 BHK,86.71,674,12864.99,17224,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,87.23,545,16005.5,17974,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Kharadi,Kharadi,4 BHK,87.4,661,13222.39,19045,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Nigdi,Nigdi,2 BHK,87.8,533,16472.8,19059,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Magarpatta,Magarpatta,4 BHK,88.56,653,13562.02,16507,Apartment,Owner,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,89.52,585,15302.56,20946,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Pimpri,Pimpri,2 BHK,90.34,1982,4558.02,22170,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Pimple Saudagar,Pimple Saudagar,2 BHK,91.14,573,15905.76,20070,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Hadapsar,Hadapsar,2 BHK,91.23,542,16832.1,17898,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Sus,Sus,1 BHK,93.15,1612,5778.54,21195,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,93.71,552,16976.45,20507,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,93.89,1465,6408.87,20099,Apartment,Owner,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Kothrud,Kothrud,4 BHK,94,668,14071.86,18251,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Koregaon Park,Koregaon Park,4 BHK,94,679,13843.89,17348,Apartment,Builder,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Aundh,Aundh,1 BHK,94.33,1745,5405.73,22706,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Bavdhan,Bavdhan,1 BHK,94.51,1642,5755.79,22550,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Pimpri,Pimpri,2 BHK,95.22,1515,6285.15,20243,Apartment,Builder,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Nigdi,Nigdi,2 BHK,95.24,1387,6866.62,19437,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Wakad,Wakad,4 BHK,95.33,618,15425.57,16651,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Pimpri,Pimpri,2 BHK,95.43,565,16890.27,18683,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Hadapsar,Hadapsar,1 BHK,95.45,1717,5559.11,20169,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Pimple Saudagar,Pimple Saudagar,2 BHK,95.53,1985,4812.59,22075,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Shivajinagar,Shivajinagar,1 BHK,95.85,1757,5455.32,22916,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Baner,Baner,2 BHK,95.89,1492,6426.94,17708,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,96.69,1513,6390.61,18600,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Koregaon Park,Koregaon Park,2 BHK,97.46,1521,6407.63,16916,Apartment,Owner,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Koregaon Park,Koregaon Park,2 BHK,97.93,570,17180.7,18926,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Wagholi,Wagholi,2 BHK,98.03,1205,8135.27,23009,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Dhanori,Dhanori,1 BHK,98.61,1690,5834.91,19791,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Koregaon Park,Koregaon Park,2 BHK,99.11,2044,4848.83,19273,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,99.42,580,17141.38,19735,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Kothrud,Kothrud,2 BHK,99.44,1215,8184.36,21173,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Dhanori,Dhanori,2 BHK,99.65,2042,4880.02,21114,Apartment,Builder,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,99.75,1958,5094.48,19131,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Sus,Sus,1 BHK,100.18,826,12128.33,22820,Apartment,Builder,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Nigdi,Nigdi,1 BHK,100.23,1613,6213.89,20418,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Pashan,Pashan,1 BHK,100.27,1689,5936.65,23295,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Hadapsar,Hadapsar,2 BHK,100.83,1943,5189.4,19982,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,101.46,1170,8671.79,23718,Apartment,Builder,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Pimple Saudagar,Pimple Saudagar,1 BHK,101.96,840,12138.1,22623,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Bavdhan,Bavdhan,1 BHK,102.52,853,12018.76,23986,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,102.65,679,15117.82,23997,Apartment,Owner,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,102.9,635,16204.72,25565,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Pashan,Pashan,1 BHK,103.04,852,12093.9,23940,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Pimple Saudagar,Pimple Saudagar,2 BHK,103.21,1218,8473.73,21677,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,103.89,2067,5026.12,21566,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Pashan,Pashan,2 BHK,104.09,1182,8806.26,22096,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,104.22,2070,5034.78,22401,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Pimple Saudagar,Pimple Saudagar,1 BHK,105.26,1682,6258.03,19347,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,106.22,1386,7663.78,25660,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Nigdi,Nigdi,2 BHK,106.52,2082,5116.23,19916,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Sus,Sus,2 BHK,106.66,1197,8910.61,21341,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Bavdhan,Bavdhan,2 BHK,107.04,1212,8831.68,20344,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,107.6,1271,8465.77,20754,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Wagholi,Wagholi,1 BHK,108,828,13043.48,23707,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Dhanori,Dhanori,1 BHK,108.03,820,13174.39,22574,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Pashan,Pashan,2 BHK,108.62,1925,5642.6,19451,Apartment,Builder,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,108.73,664,16375,25514,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Pashan,Pashan,1 BHK,108.99,666,16364.86,24142,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Pimpri,Pimpri,2 BHK,110.02,536,20526.12,27431,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Magarpatta,Magarpatta,1 BHK,110.42,1739,6349.63,21892,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Dhanori,Dhanori,1 BHK,110.48,672,16440.48,22320,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Hinjewadi,Hinjewadi,2 BHK,110.88,589,18825.13,23408,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Sus,Sus,1 BHK,110.9,617,17974.07,24921,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Warje,Warje,1 BHK,111.59,634,17600.95,25171,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Wagholi,Wagholi,1 BHK,111.76,1336,8365.27,22138,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,112.66,1400,8047.14,24919,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,112.82,833,13543.82,25131,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,112.99,831,13596.87,22018,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Sus,Sus,1 BHK,114.25,1374,8315.14,25262,Apartment,Builder,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,114.27,1375,8310.55,22764,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Wagholi,Wagholi,1 BHK,114.65,638,17970.22,21885,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,114.83,1380,8321.01,24928,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Hinjewadi,Hinjewadi,2 BHK,115.45,1175,9825.53,21362,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Dhanori,Dhanori,2 BHK,116.04,1206,9621.89,20568,Apartment,Owner,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,116.43,578,20143.6,25658,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Bavdhan,Bavdhan,1 BHK,116.62,618,18870.55,22176,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Dhanori,Dhanori,1 BHK,117.08,1348,8685.46,22642,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Hadapsar,Hadapsar,1 BHK,117.49,1182,9939.93,25522,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Baner,Baner,2 BHK,117.51,541,21720.89,24872,Apartment,Dealer,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,118.38,1389,8522.68,22688,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Viman Nagar,Viman Nagar,2 BHK,118.58,561,21137.25,27493,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Warje,Warje,1 BHK,118.66,812,14613.3,23453,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Bavdhan,Bavdhan,1 BHK,118.82,1342,8853.95,24131,Apartment,Owner,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,119.61,661,18095.31,25578,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Wagholi,Wagholi,2 BHK,119.63,576,20769.1,24968,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Nigdi,Nigdi,1 BHK,120.69,1185,10184.81,27476,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,120.74,852,14171.36,21857,Apartment,Owner,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,121.14,1249,9698.96,29707,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Pimpri,Pimpri,1 BHK,121.32,1228,9879.48,25367,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Kothrud,Kothrud,2 BHK,122.01,545,22387.16,27302,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,122.65,549,22340.62,26911,Apartment,Owner,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Warje,Warje,1 BHK,123,1362,9030.84,23155,Apartment,Builder,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,123.43,1161,10631.35,27569,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Koregaon Park,Koregaon Park,1 BHK,124.31,1221,10181,24610,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Wakad,Wakad,2 BHK,124.36,564,22049.65,24101,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Pimpri,Pimpri,3 BHK,127.56,1412,9033.99,30026,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,127.96,1259,10163.62,25120,Apartment,Owner,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Nigdi,Nigdi,3 BHK,128.25,1428,8981.09,31543,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Koregaon Park,Koregaon Park,2 BHK,130.01,583,22300.17,25269,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,131.02,1212,10810.23,26201,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Hadapsar,Hadapsar,3 BHK,131.62,1420,9269.01,27321,Apartment,Owner,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,131.63,1161,11337.64,29399,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Koregaon Park,Koregaon Park,3 BHK,132.65,1391,9536.3,26717,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Dhanori,Dhanori,4 BHK,134.18,1944,6902.26,32601,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Wagholi,Wagholi,4 BHK,135.31,2787,4855.04,33139,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Kharadi,Kharadi,1 BHK,137.85,1204,11449.34,28396,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Wakad,Wakad,3 BHK,139.17,1486,9365.41,29835,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Aundh,Aundh,3 BHK,139.43,1425,9784.56,28115,Apartment,Owner,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Pashan,Pashan,4 BHK,140.03,2705,5176.71,30657,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Magarpatta,Magarpatta,4 BHK,141.27,1999,7067.03,27652,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Aundh,Aundh,4 BHK,142.02,2811,5052.29,28212,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Hadapsar,Hadapsar,4 BHK,143.5,2023,7093.43,29627,Apartment,Owner,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Pashan,Pashan,4 BHK,144.08,1947,7400.1,27468,Apartment,Builder,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Sus,Sus,2 BHK,144.17,1364,10569.65,33799,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Pimple Saudagar,Pimple Saudagar,4 BHK,144.65,2019,7164.44,28450,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Warje,Warje,4 BHK,145.19,2743,5293.11,34241,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Koregaon Park,Koregaon Park,4 BHK,145.9,1931,7555.67,28598,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Kharadi,Kharadi,3 BHK,146.76,1494,9823.29,29243,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Hinjewadi,Hinjewadi,4 BHK,147.42,2745,5370.49,28855,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,148.61,1498,9920.56,29174,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Viman Nagar,Viman Nagar,2 BHK,149,1371,10867.98,35196,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Magarpatta,Magarpatta,3 BHK,149.78,1496,10012.03,27058,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Dhanori,Dhanori,4 BHK,149.94,2642,5675.25,32891,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Aundh,Aundh,4 BHK,150.78,1970,7653.81,29604,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Pimple Saudagar,Pimple Saudagar,4 BHK,151.16,2831,5339.46,28662,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,151.69,1343,11294.86,33859,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Shivajinagar,Shivajinagar,3 BHK,153.75,1488,10332.66,30920,Apartment,Builder,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Koregaon Park,Koregaon Park,3 BHK,154,639,24100.16,36538,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Hinjewadi,Hinjewadi,2 BHK,155.62,1344,11578.87,30186,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Nigdi,Nigdi,4 BHK,155.71,1938,8034.57,31685,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Sus,Sus,4 BHK,155.82,1947,8003.08,30460,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Bavdhan,Bavdhan,2 BHK,157.14,1370,11470.07,32137,Apartment,Builder,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Shivajinagar,Shivajinagar,4 BHK,158.18,1947,8124.29,29806,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Wakad,Wakad,2 BHK,160.04,1298,12329.74,35841,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Kothrud,Kothrud,2 BHK,160.81,1341,11991.8,35641,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Shivajinagar,Shivajinagar,4 BHK,161.34,2859,5643.23,28644,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Sus,Sus,4 BHK,162.17,2762,5871.47,29889,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,162.27,1401,11582.44,33742,Apartment,Builder,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Baner,Baner,2 BHK,162.73,1407,11565.74,32719,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Wakad,Wakad,3 BHK,162.81,611,26646.48,35349,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Bavdhan,Bavdhan,4 BHK,164.42,2686,6121.37,32247,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Pimpri,Pimpri,3 BHK,165.38,656,25210.37,36764,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Magarpatta,Magarpatta,4 BHK,165.44,1050,15756.19,37864,Apartment,Builder,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Nigdi,Nigdi,4 BHK,165.96,1045,15881.34,38507,Apartment,Owner,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Magarpatta,Magarpatta,3 BHK,166.58,628,26525.48,35570,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Pashan,Pashan,4 BHK,168.2,1031,16314.26,36538,Apartment,Dealer,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Baner,Baner,3 BHK,168.91,657,25709.28,34763,Apartment,Builder,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,171.31,1513,11322.54,39741,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Bavdhan,Bavdhan,2 BHK,171.97,1514,11358.65,43000,Apartment,Owner,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Hadapsar,Hadapsar,4 BHK,172.12,1062,16207.16,37537,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Wagholi,Wagholi,2 BHK,172.41,1293,13334.11,36168,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Hadapsar,Hadapsar,3 BHK,173.76,640,27150,33011,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,174.39,1459,11952.71,41854,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Kharadi,Kharadi,3 BHK,174.54,611,28566.28,37007,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Wagholi,Wagholi,2 BHK,175.22,1413,12400.57,41656,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Viman Nagar,Viman Nagar,3 BHK,176.05,643,27379.47,37846,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Koregaon Park,Koregaon Park,4 BHK,177.77,1024,17360.35,40628,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Sus,Sus,4 BHK,180.08,659,27326.25,45441,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Kothrud,Kothrud,3 BHK,181.11,623,29070.63,34048,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Pimple Saudagar,Pimple Saudagar,4 BHK,181.38,985,18414.21,41113,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Dhanori,Dhanori,2 BHK,181.55,1515,11983.5,38953,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Aundh,Aundh,4 BHK,182.51,1021,17875.61,34228,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Nigdi,Nigdi,3 BHK,184.64,657,28103.5,38202,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Hinjewadi,Hinjewadi,4 BHK,185.96,650,28609.23,45001,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,186.72,1426,13093.97,36370,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Pimpri,Pimpri,4 BHK,187.76,1063,17663.22,34453,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Dhanori,Dhanori,3 BHK,190.14,563,33772.65,40312,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,190.88,1511,12632.69,37222,Apartment,Owner,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Shivajinagar,Shivajinagar,4 BHK,192.72,1052,18319.39,39815,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Kothrud,Kothrud,3 BHK,192.74,538,35825.28,43071,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Sus,Sus,2 BHK,192.8,1468,13133.51,39478,Apartment,Builder,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Kothrud,Kothrud,4 BHK,192.94,618,31220.06,42187,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,193.54,1338,14464.87,41530,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Hinjewadi,Hinjewadi,3 BHK,193.6,563,34387.21,39956,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Kharadi,Kharadi,4 BHK,194.9,995,19587.94,34700,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Pashan,Pashan,2 BHK,195.93,1447,13540.43,42405,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Bavdhan,Bavdhan,1 BHK,196.39,1383,14200.29,45898,Apartment,Builder,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Koregaon Park,Koregaon Park,3 BHK,196.88,1394,14123.39,47835,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Sus,Sus,3 BHK,196.98,542,36343.17,41243,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Shivajinagar,Shivajinagar,3 BHK,199.46,569,35054.48,44071,Apartment,Builder,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,199.54,1327,15036.93,41125,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Wagholi,Wagholi,1 BHK,200.82,1383,14520.61,40172,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Aundh,Aundh,3 BHK,200.88,1367,14694.95,45792,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Pashan,Pashan,4 BHK,201.53,655,30767.94,39343,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,203.83,1386,14706.35,38010,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Pimple Saudagar,Pimple Saudagar,2 BHK,203.84,1453,14028.91,41393,Apartment,Builder,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Baner,Baner,4 BHK,203.88,603,33810.95,42687,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Kharadi,Kharadi,1 BHK,204.99,1338,15320.63,40614,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Viman Nagar,Viman Nagar,4 BHK,205.34,652,31493.87,44367,Apartment,Owner,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Warje,Warje,3 BHK,205.43,562,36553.38,41477,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Bavdhan,Bavdhan,4 BHK,206.84,648,31919.75,43409,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Pashan,Pashan,3 BHK,206.85,575,35973.91,40397,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Magarpatta,Magarpatta,4 BHK,207.14,605,34238.02,46160,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,207.48,548,37861.31,37322,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Warje,Warje,1 BHK,209.1,1408,14850.85,41559,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Wagholi,Wagholi,3 BHK,210.31,569,36961.34,37352,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Bavdhan,Bavdhan,3 BHK,210.53,540,38987.04,39664,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Sus,Sus,4 BHK,212.23,650,32650.77,46013,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Nigdi,Nigdi,4 BHK,212.48,652,32588.96,44176,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Pimpri,Pimpri,3 BHK,212.63,1332,15963.21,46206,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,214.29,2699,7939.61,45692,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,214.4,1359,15776.31,44677,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Wagholi,Wagholi,4 BHK,215.9,629,34324.32,45166,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Sus,Sus,1 BHK,216.92,1373,15798.98,38835,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Warje,Warje,4 BHK,217.49,626,34742.81,40100,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Wakad,Wakad,3 BHK,217.92,1412,15433.43,41887,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Dhanori,Dhanori,4 BHK,218.08,627,34781.5,41811,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Wagholi,Wagholi,2 BHK,218.25,2652,8229.64,51001,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Pashan,Pashan,2 BHK,218.35,2733,7989.39,50170,Apartment,Builder,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,221.47,1361,16272.59,41999,Apartment,Builder,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Nigdi,Nigdi,3 BHK,221.9,1342,16535.02,45616,Apartment,Owner,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Hadapsar,Hadapsar,3 BHK,222.34,1369,16241.05,44375,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Dhanori,Dhanori,4 BHK,224.74,607,37024.71,44358,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Wakad,Wakad,3 BHK,226.84,1961,11567.57,54905,Apartment,Dealer,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Baner,Baner,3 BHK,227.59,1348,16883.53,41256,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Hinjewadi,Hinjewadi,3 BHK,228.52,2081,10981.26,53867,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,229.12,2770,8271.48,51124,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Magarpatta,Magarpatta,3 BHK,229.53,1408,16301.85,46699,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Pimple Saudagar,Pimple Saudagar,2 BHK,231.99,2767,8384.17,49132,Apartment,Owner,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Kharadi,Kharadi,3 BHK,234.06,1349,17350.63,47939,Apartment,Builder,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Pimpri,Pimpri,1 BHK,234.24,802,29206.98,49582,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Wagholi,Wagholi,3 BHK,234.94,2056,11427.04,52253,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Viman Nagar,Viman Nagar,3 BHK,236.09,1345,17553.16,42092,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Aundh,Aundh,4 BHK,237.37,621,38223.83,51881,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Pimple Saudagar,Pimple Saudagar,4 BHK,237.37,661,35910.74,46633,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Pashan,Pashan,4 BHK,237.81,610,38985.25,44811,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Hadapsar,Hadapsar,1 BHK,239.89,808,29689.36,57535,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Viman Nagar,Viman Nagar,3 BHK,243.3,2019,12050.52,48321,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,243.94,2859,8532.35,45169,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Hadapsar,Hadapsar,4 BHK,244.3,649,37642.53,52525,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,245.31,2850,8607.37,52046,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Koregaon Park,Koregaon Park,4 BHK,245.41,605,40563.64,47514,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Kharadi,Kharadi,3 BHK,246.13,1967,12512.96,52720,Apartment,Owner,Unfurnished,Ready to Move
+Pune,5 BHK Apartment in Magarpatta,Magarpatta,5 BHK,248.74,641,38804.99,62085,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Pimpri,Pimpri,3 BHK,249.11,1913,13021.96,52642,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Bavdhan,Bavdhan,2 BHK,251.64,2867,8777.12,51403,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Dhanori,Dhanori,2 BHK,251.78,2749,9158.97,49734,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Shivajinagar,Shivajinagar,4 BHK,251.92,605,41639.67,43841,Apartment,Dealer,Unfurnished,Under Construction
+Pune,5 BHK Apartment in Nigdi,Nigdi,5 BHK,251.93,642,39241.43,56170,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,254.41,871,29208.96,48818,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,254.56,830,30669.88,52476,Apartment,Builder,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,256.7,844,30414.69,48948,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Sus,Sus,2 BHK,257.28,2733,9413.83,50114,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Koregaon Park,Koregaon Park,3 BHK,257.47,1977,13023.27,54215,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,5 BHK Apartment in Sus,Sus,5 BHK,258.18,645,40027.91,53539,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Baner,Baner,3 BHK,258.62,1950,13262.56,54500,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,5 BHK Apartment in Aundh,Aundh,5 BHK,261.18,659,39632.78,61685,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Magarpatta,Magarpatta,1 BHK,262.63,805,32624.84,56973,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,5 BHK Apartment in Pashan,Pashan,5 BHK,263.01,650,40463.08,59785,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Kharadi,Kharadi,1 BHK,263.84,815,32373.01,54797,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Kothrud,Kothrud,3 BHK,264.74,2040,12977.45,51947,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,265.49,836,31757.18,52802,Apartment,Dealer,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Nigdi,Nigdi,1 BHK,267.12,881,30320.09,49004,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Koregaon Park,Koregaon Park,1 BHK,267.16,852,31356.81,55331,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,5 BHK Apartment in Pimple Saudagar,Pimple Saudagar,5 BHK,267.79,608,44044.41,53684,Apartment,Dealer,Unfurnished,Under Construction
+Pune,5 BHK Apartment in Bavdhan,Bavdhan,5 BHK,269.78,659,40937.78,54453,Apartment,Builder,Fully Furnished,Under Construction
+Pune,5 BHK Apartment in Shivajinagar,Shivajinagar,5 BHK,270.06,631,42798.73,60911,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Hadapsar,Hadapsar,3 BHK,272.85,1957,13942.26,48333,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Magarpatta,Magarpatta,2 BHK,274.75,1756,15646.36,58213,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Nigdi,Nigdi,2 BHK,279.06,1760,15855.68,60340,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Koregaon Park,Koregaon Park,2 BHK,283.8,1606,17671.23,63066,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,5 BHK Apartment in Hadapsar,Hadapsar,5 BHK,284.8,603,47230.51,60394,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,296.72,1691,17547.01,57026,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Viman Nagar,Viman Nagar,2 BHK,298.22,2621,11378.1,64337,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,5 BHK Apartment in Dhanori,Dhanori,5 BHK,299.8,644,46552.8,54732,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Viman Nagar,Viman Nagar,2 BHK,303.55,1748,17365.56,59369,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,304.22,1725,17635.94,65610,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Wakad,Wakad,2 BHK,304.79,2761,11039.12,64386,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Hadapsar,Hadapsar,2 BHK,305.17,1731,17629.69,56776,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Pimpri,Pimpri,2 BHK,309.77,1696,18264.74,57832,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Kothrud,Kothrud,2 BHK,313.15,2627,11920.44,71543,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Wagholi,Wagholi,2 BHK,313.69,2864,10952.86,73614,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Hadapsar,Hadapsar,1 BHK,315.55,1196,26383.78,70449,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Wakad,Wakad,2 BHK,316.5,1743,18158.35,58546,Apartment,Builder,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,316.57,2882,10984.39,68815,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,318.13,1208,26335.26,79262,Apartment,Owner,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Pimple Saudagar,Pimple Saudagar,1 BHK,318.97,1142,27930.82,72430,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Bavdhan,Bavdhan,2 BHK,327.51,2728,12005.5,73690,Apartment,Owner,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Baner,Baner,2 BHK,327.9,1646,19921.02,68147,Apartment,Owner,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Koregaon Park,Koregaon Park,1 BHK,337.44,1166,28939.97,73956,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,338.06,2703,12506.84,68250,Apartment,Builder,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Pimpri,Pimpri,1 BHK,338.4,1140,29684.21,70672,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Baner,Baner,2 BHK,350.86,2787,12589.16,70422,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Magarpatta,Magarpatta,1 BHK,352.07,1174,29988.93,79221,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Hinjewadi,Hinjewadi,2 BHK,359.22,2712,13245.58,62730,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Pimpri,Pimpri,2 BHK,359.51,2809,12798.5,71420,Apartment,Owner,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Wagholi,Wagholi,3 BHK,368.32,1029,35793.97,78750,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Shivajinagar,Shivajinagar,1 BHK,368.85,1169,31552.61,77894,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Kharadi,Kharadi,1 BHK,372.1,1146,32469.46,69262,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Dhanori,Dhanori,1 BHK,373.68,651,57400.92,86892,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Pashan,Pashan,3 BHK,373.69,995,37556.78,89669,Apartment,Builder,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,373.96,638,58614.42,90956,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,375.29,663,56604.83,93058,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,4 BHK Apartment in Magarpatta,Magarpatta,4 BHK,375.48,574,65414.63,79634,Apartment,Owner,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Nigdi,Nigdi,1 BHK,376.71,1225,30751.84,66240,Apartment,Builder,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Shivajinagar,Shivajinagar,4 BHK,377.64,567,66603.17,78289,Apartment,Owner,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Warje,Warje,3 BHK,377.94,1018,37125.74,86675,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,4 BHK Apartment in Pashan,Pashan,4 BHK,378.27,550,68776.36,83407,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Warje,Warje,1 BHK,382.33,652,58639.57,88365,Apartment,Owner,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Aundh,Aundh,1 BHK,382.92,1217,31464.26,69052,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,383.24,618,62012.94,78163,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Hinjewadi,Hinjewadi,3 BHK,383.4,1027,37332.04,87271,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Shivajinagar,Shivajinagar,3 BHK,384.52,1009,38109.02,79370,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Koregaon Park,Koregaon Park,4 BHK,392.41,576,68126.74,80144,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Bavdhan,Bavdhan,3 BHK,397.92,1018,39088.41,78056,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,4 BHK Apartment in Hadapsar,Hadapsar,4 BHK,398.52,561,71037.43,78196,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Pimple Saudagar,Pimple Saudagar,4 BHK,403.89,571,70733.8,84240,Apartment,Builder,Fully Furnished,Under Construction
+Pune,4 BHK Apartment in Dhanori,Dhanori,4 BHK,406.01,539,75326.53,87363,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,407.38,617,66025.93,94138,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Wagholi,Wagholi,1 BHK,407.68,628,64917.2,91864,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,409.75,1057,38765.37,93131,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,411.53,662,62164.65,86090,Apartment,Owner,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Nigdi,Nigdi,4 BHK,413,534,77340.82,80703,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,4 BHK Apartment in Aundh,Aundh,4 BHK,414.66,550,75392.73,78918,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Kothrud,Kothrud,3 BHK,415.69,1071,38813.26,90753,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Aundh,Aundh,3 BHK,422.61,1242,34026.57,85790,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Warje,Warje,3 BHK,423.64,1220,34724.59,96418,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Dhanori,Dhanori,3 BHK,424.68,1029,41271.14,92079,Apartment,Dealer,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Shivajinagar,Shivajinagar,3 BHK,431.03,1242,34704.51,89637,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Sus,Sus,3 BHK,431.68,1003,43038.88,79641,Apartment,Dealer,Unfurnished,Under Construction
+Pune,4 BHK Apartment in Pimpri,Pimpri,4 BHK,435.64,557,78211.85,90246,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Sus,Sus,1 BHK,438.3,667,65712.14,84158,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Hinjewadi,Hinjewadi,3 BHK,438.81,1172,37441.13,96545,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Pimple Saudagar,Pimple Saudagar,2 BHK,444.49,1072,41463.62,109378,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Shivajinagar,Shivajinagar,2 BHK,445.68,1065,41847.89,112496,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Pimpri,Pimpri,2 BHK,452.52,1159,39044,97491,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Bavdhan,Bavdhan,1 BHK,452.55,644,70271.74,93414,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Bavdhan,Bavdhan,2 BHK,453.76,1029,44097.18,97351,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Bavdhan,Bavdhan,3 BHK,454.42,1214,37431.63,87889,Apartment,Dealer,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Pashan,Pashan,3 BHK,456.21,1227,37180.93,86995,Apartment,Owner,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,462.3,1196,38653.85,94534,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Wakad,Wakad,2 BHK,466.45,1238,37677.71,105557,Apartment,Owner,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Hinjewadi,Hinjewadi,2 BHK,468.2,1193,39245.6,112699,Apartment,Owner,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Sus,Sus,2 BHK,470.32,1023,45974.58,97344,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,472.61,1228,38486.16,112274,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Sus,Sus,3 BHK,476.75,1242,38385.67,100851,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Dhanori,Dhanori,2 BHK,476.78,995,47917.59,99443,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Bavdhan,Bavdhan,2 BHK,481.14,1525,31550.16,101242,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Viman Nagar,Viman Nagar,2 BHK,482.66,1188,40627.95,96208,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Hinjewadi,Hinjewadi,2 BHK,483.65,1011,47838.77,106394,Apartment,Owner,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Kothrud,Kothrud,2 BHK,484.24,1443,33557.87,111709,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Sus,Sus,2 BHK,487.25,1414,34458.98,94853,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Baner,Baner,2 BHK,487.43,1501,32473.68,104989,Apartment,Owner,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Hinjewadi,Hinjewadi,2 BHK,488,1517,32168.75,94099,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Wagholi,Wagholi,3 BHK,490.54,1210,40540.5,94688,Apartment,Dealer,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Kharadi,Kharadi,2 BHK,491.13,1467,33478.53,99673,Apartment,Owner,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Dhanori,Dhanori,3 BHK,492.5,1246,39526.48,93650,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Viman Nagar,Viman Nagar,2 BHK,499.91,1441,34691.88,109185,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Pashan,Pashan,2 BHK,506.29,1066,47494.37,111671,Apartment,Builder,Fully Furnished,Under Construction
+Pune,2 BHK Apartment in Wagholi,Wagholi,2 BHK,507.26,1049,48356.53,98847,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,507.34,1055,48089.1,109973,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,2 BHK Apartment in Wagholi,Wagholi,2 BHK,509.33,1479,34437.46,109844,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Wakad,Wakad,2 BHK,509.45,1507,33805.57,108052,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,2 BHK Apartment in Kothrud,Kothrud,2 BHK,510.65,1217,41959.74,105312,Apartment,Owner,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Aundh,Aundh,2 BHK,522.45,1029,50772.59,97780,Apartment,Builder,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Bavdhan,Bavdhan,2 BHK,524.43,1249,41987.99,100114,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,2 BHK Apartment in Baner,Baner,2 BHK,525.69,1175,44739.57,107527,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,527.99,1147,46032.26,100039,Apartment,Builder,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Wagholi,Wagholi,2 BHK,540.18,1224,44132.35,111931,Apartment,Dealer,Unfurnished,Under Construction
+Pune,2 BHK Apartment in Warje,Warje,2 BHK,544.06,1384,39310.69,110120,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,1 BHK Apartment in Pimpri,Pimpri,1 BHK,730.53,1385,52745.85,152313,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Warje,Warje,1 BHK,742.45,1504,49365.03,150191,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,766.53,1408,54441.05,160670,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,767.29,1511,50780.28,150827,Apartment,Owner,Unfurnished,Under Construction
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,795.74,1519,52385.78,182399,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Kharadi,Kharadi,1 BHK,808.19,1493,54131.95,163416,Apartment,Builder,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,834.33,1475,56564.75,160680,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,847.53,1523,55648.72,162212,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Bavdhan,Bavdhan,1 BHK,856.07,1500,57071.33,150745,Apartment,Builder,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Wagholi,Wagholi,1 BHK,867.53,1397,62099.5,181820,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Shivajinagar,Shivajinagar,3 BHK,902.22,1374,65663.76,224122,Apartment,Builder,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Nigdi,Nigdi,3 BHK,905.84,1316,68832.83,196452,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Magarpatta,Magarpatta,3 BHK,921.31,1422,64789.73,202069,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Wagholi,Wagholi,3 BHK,948.09,1237,76644.3,203056,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Kothrud,Kothrud,3 BHK,950.17,1269,74875.49,197921,Apartment,Owner,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Sus,Sus,3 BHK,977.72,1383,70695.59,224806,Apartment,Builder,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Bavdhan,Bavdhan,3 BHK,992.73,1196,83004.18,221797,Apartment,Builder,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Dhanori,Dhanori,3 BHK,999.39,1419,70429.18,227044,Apartment,Owner,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Bavdhan,Bavdhan,3 BHK,1017.46,1323,76905.52,188156,Apartment,Builder,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Viman Nagar,Viman Nagar,3 BHK,1021.66,1233,82859.69,228323,Apartment,Owner,Unfurnished,Under Construction
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,1041.07,1428,72904.06,195574,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Warje,Warje,3 BHK,1048.06,1371,76444.93,202342,Apartment,Owner,Fully Furnished,Ready to Move
+Pune,3 BHK Apartment in Hinjewadi,Hinjewadi,3 BHK,1050.93,1260,83407.14,207894,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Aundh,Aundh,3 BHK,1076.14,1324,81279.46,191334,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,3 BHK Apartment in Pashan,Pashan,3 BHK,1085.64,1354,80180.21,204713,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Dhanori,Dhanori,3 BHK,1088.32,1234,88194.49,200107,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,3 BHK Apartment in Pashan,Pashan,3 BHK,1107.02,1272,87029.87,231615,Apartment,Builder,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Sus,Sus,3 BHK,1115.24,1223,91188.88,236363,Apartment,Owner,Fully Furnished,Under Construction
+Pune,3 BHK Apartment in Warje,Warje,3 BHK,1128.71,1251,90224.62,237284,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,3 BHK Apartment in Pimple Saudagar,Pimple Saudagar,3 BHK,1148.43,1170,98156.41,227916,Apartment,Owner,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Wakad,Wakad,1 BHK,1846.18,1209,152703.06,384862,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Wagholi,Wagholi,1 BHK,1853.53,1192,155497.48,431715,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Koregaon Park,Koregaon Park,1 BHK,1879.52,1159,162167.39,430755,Apartment,Dealer,Unfurnished,Ready to Move
+Pune,1 BHK Apartment in Pimpri,Pimpri,1 BHK,1889.78,1165,162212.88,444005,Apartment,Dealer,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Baner,Baner,1 BHK,1893.73,1252,151256.39,413239,Apartment,Owner,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Hadapsar,Hadapsar,1 BHK,1897.24,1262,150335.97,404633,Apartment,Builder,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Viman Nagar,Viman Nagar,1 BHK,1925.03,1250,154002.4,376335,Apartment,Dealer,Semi-Furnished,Under Construction
+Pune,1 BHK Apartment in Kothrud,Kothrud,1 BHK,1975.84,1216,162486.84,421473,Apartment,Builder,Semi-Furnished,Ready to Move
+Pune,1 BHK Apartment in Kharadi,Kharadi,1 BHK,2073.7,1269,163412.14,439678,Apartment,Dealer,Fully Furnished,Under Construction
+Pune,1 BHK Apartment in Hinjewadi,Hinjewadi,1 BHK,2083.17,1215,171454.32,414959,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,1 BHK Apartment in Katargam,Katargam,1 BHK,4.55,1192,381.71,1138,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Rander,Rander,1 BHK,4.55,1290,352.71,1125,Apartment,Dealer,Unfurnished,Under Construction
+Surat,1 BHK Apartment in Pal,Pal,1 BHK,4.62,1232,375,997,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,1 BHK Apartment in Adajan,Adajan,1 BHK,4.66,1279,364.35,1070,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Piplod,Piplod,1 BHK,4.67,1224,381.54,1006,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,1 BHK Apartment in Varachha,Varachha,1 BHK,4.77,1211,393.89,998,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Dindoli,Dindoli,1 BHK,4.86,1247,389.74,1052,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Udhana,Udhana,1 BHK,5.1,1280,398.44,1068,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Sayan,Sayan,2 BHK,9.11,1143,797.03,2252,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Dindoli,Dindoli,2 BHK,9.35,1216,768.91,2150,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Piplod,Piplod,2 BHK,9.57,1127,849.16,2072,Apartment,Owner,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Varachha,Varachha,2 BHK,9.6,1141,841.37,1906,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Pal,Pal,2 BHK,10.16,1205,843.15,2167,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Rander,Rander,2 BHK,10.52,1200,876.67,1912,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Althan,Althan,2 BHK,10.58,1156,915.22,1888,Apartment,Builder,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Udhana,Udhana,2 BHK,10.74,1161,925.06,1961,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Althan,Althan,3 BHK,14.19,2106,673.79,3144,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Citylight,Citylight,3 BHK,15.11,2167,697.28,3109,Apartment,Builder,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Parle Point,Parle Point,3 BHK,15.19,2162,702.59,2937,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Rander,Rander,3 BHK,15.43,2116,729.21,3074,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Sayan,Sayan,3 BHK,15.46,2286,676.29,2819,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Udhana,Udhana,3 BHK,15.97,2250,709.78,3188,Apartment,Owner,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Varachha,Varachha,3 BHK,16.2,2115,765.96,3304,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Dindoli,Dindoli,3 BHK,16.44,2123,774.38,3026,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Citylight,Citylight,4 BHK,18.13,1283,1413.09,3837,Apartment,Owner,Fully Furnished,Under Construction
+Surat,4 BHK Apartment in Althan,Althan,4 BHK,18.36,1275,1440,4141,Apartment,Owner,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Parle Point,Parle Point,4 BHK,18.77,1298,1446.07,4577,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,4 BHK Apartment in Sayan,Sayan,4 BHK,18.99,1222,1554.01,3837,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,4 BHK Apartment in Magdalla,Magdalla,4 BHK,18.99,1228,1546.42,4370,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Udhana,Udhana,4 BHK,19.66,1282,1533.54,4471,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,4 BHK Apartment in Athwalines,Athwalines,4 BHK,19.85,1241,1599.52,4015,Apartment,Builder,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Varachha,Varachha,4 BHK,20.36,1264,1610.76,4329,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,5 BHK Apartment in Athwalines,Athwalines,5 BHK,24.58,1153,2131.83,5317,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,5 BHK Apartment in Bhatar,Bhatar,5 BHK,25.63,1161,2207.58,6023,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,5 BHK Apartment in Parle Point,Parle Point,5 BHK,25.65,1118,2294.28,5106,Apartment,Owner,Unfurnished,Under Construction
+Surat,5 BHK Apartment in Sayan,Sayan,5 BHK,26.07,1179,2211.2,5110,Apartment,Builder,Fully Furnished,Under Construction
+Surat,5 BHK Apartment in Althan,Althan,5 BHK,26.07,1176,2216.84,5584,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Althan,Althan,3 BHK,26.14,3241,806.54,5884,Apartment,Dealer,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Magdalla,Magdalla,3 BHK,26.29,3148,835.13,5370,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Athwalines,Athwalines,3 BHK,26.3,3392,775.35,5962,Apartment,Owner,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Anand Mahal,Anand Mahal,3 BHK,26.41,3213,821.97,5718,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Parle Point,Parle Point,3 BHK,26.46,3382,782.38,6240,Apartment,Builder,Unfurnished,Ready to Move
+Surat,5 BHK Apartment in Citylight,Citylight,5 BHK,26.67,1152,2315.1,5157,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,5 BHK Apartment in Anand Mahal,Anand Mahal,5 BHK,26.89,1179,2280.75,6142,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Mota Varachha,Mota Varachha,3 BHK,27.25,3157,863.16,6011,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Nanpura,Nanpura,3 BHK,27.48,898,3060.13,6578,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,4 BHK Apartment in Magdalla,Magdalla,4 BHK,27.53,2192,1255.93,6507,Apartment,Builder,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Bhatar,Bhatar,4 BHK,27.67,2140,1292.99,6603,Apartment,Builder,Fully Furnished,Under Construction
+Surat,4 BHK Apartment in Parle Point,Parle Point,4 BHK,27.69,2181,1269.6,6495,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,5 BHK Apartment in Magdalla,Magdalla,5 BHK,28.21,1222,2308.51,6116,Apartment,Builder,Unfurnished,Under Construction
+Surat,4 BHK Apartment in Anand Mahal,Anand Mahal,4 BHK,28.51,2167,1315.64,5920,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Kapodra,Kapodra,3 BHK,29.34,873,3360.82,6516,Apartment,Owner,Unfurnished,Under Construction
+Surat,4 BHK Apartment in Athwalines,Athwalines,4 BHK,29.57,2118,1396.13,6816,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Bhatar,Bhatar,3 BHK,29.68,843,3520.76,6733,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Bhatar,Bhatar,3 BHK,30.15,3150,957.14,6353,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Citylight,Citylight,3 BHK,30.19,3153,957.5,5316,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Parle Point,Parle Point,3 BHK,30.72,865,3551.45,5867,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,4 BHK Apartment in Kapodra,Kapodra,4 BHK,30.78,2124,1449.15,5658,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Anand Mahal,Anand Mahal,3 BHK,31.42,894,3514.54,6094,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,4 BHK Apartment in Citylight,Citylight,4 BHK,32,2242,1427.3,6264,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Mota Varachha,Mota Varachha,3 BHK,32.12,822,3907.54,6314,Apartment,Builder,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Athwalines,Athwalines,3 BHK,32.56,841,3871.58,5818,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,4 BHK Apartment in Mota Varachha,Mota Varachha,4 BHK,32.83,2166,1515.7,6797,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Magdalla,Magdalla,3 BHK,32.93,844,3901.66,6522,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Kapodra,Kapodra,3 BHK,36.93,2257,1636.24,8439,Apartment,Builder,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Vesu,Vesu,3 BHK,37.42,2098,1783.6,8164,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Kapodra,Kapodra,2 BHK,37.72,1163,3243.34,8423,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Adajan,Adajan,2 BHK,37.79,1150,3286.09,9333,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Nanpura,Nanpura,3 BHK,38.16,2063,1849.73,7602,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Mota Varachha,Mota Varachha,2 BHK,38.33,1135,3377.09,9344,Apartment,Builder,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Bhatar,Bhatar,3 BHK,38.93,2156,1805.66,8303,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Mota Varachha,Mota Varachha,3 BHK,39.3,2145,1832.17,8011,Apartment,Builder,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Adajan,Adajan,3 BHK,39.9,2206,1808.7,8331,Apartment,Owner,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Nanpura,Nanpura,3 BHK,39.97,2266,1763.9,9048,Apartment,Owner,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Anand Mahal,Anand Mahal,3 BHK,40.06,2131,1879.87,8183,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Nanpura,Nanpura,2 BHK,40.22,1216,3307.57,9488,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Katargam,Katargam,3 BHK,40.25,2202,1827.88,9426,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Magdalla,Magdalla,3 BHK,40.5,2213,1830.09,7536,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Bhatar,Bhatar,2 BHK,40.77,1145,3560.7,9460,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Anand Mahal,Anand Mahal,2 BHK,40.9,1180,3466.1,7912,Apartment,Owner,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Vesu,Vesu,2 BHK,40.97,1150,3562.61,8908,Apartment,Owner,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Adajan,Adajan,3 BHK,41.15,2146,1917.52,9063,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Pal,Pal,3 BHK,41.45,2119,1956.11,9805,Apartment,Owner,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Katargam,Katargam,2 BHK,42.99,1218,3529.56,9149,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Vesu,Vesu,3 BHK,43.17,2296,1880.23,9652,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Piplod,Piplod,3 BHK,44.47,2123,2094.68,8360,Apartment,Dealer,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Kapodra,Kapodra,3 BHK,45.01,2228,2020.2,9862,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Piplod,Piplod,3 BHK,45.55,885,5146.89,9386,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Nanpura,Nanpura,3 BHK,46.73,890,5250.56,10293,Apartment,Builder,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Mota Varachha,Mota Varachha,3 BHK,47.79,2233,2140.17,8924,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Katargam,Katargam,3 BHK,49.44,897,5511.71,10464,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Adajan,Adajan,3 BHK,50.34,828,6079.71,9457,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Kapodra,Kapodra,3 BHK,51.29,874,5868.42,9860,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Pal,Pal,3 BHK,52.56,899,5846.5,9671,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Pal,Pal,3 BHK,54.23,2111,2568.92,12972,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Vesu,Vesu,3 BHK,54.38,829,6559.71,9920,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Rander,Rander,3 BHK,54.6,852,6408.45,10917,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Vesu,Vesu,3 BHK,54.81,2169,2526.97,12697,Apartment,Owner,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Katargam,Katargam,3 BHK,54.89,2095,2620.05,12372,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Dindoli,Dindoli,2 BHK,54.92,1173,4682.01,13509,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Pal,Pal,2 BHK,55.45,1183,4687.24,12273,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Udhana,Udhana,2 BHK,55.82,1174,4754.68,11263,Apartment,Owner,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Varachha,Varachha,3 BHK,55.83,2217,2518.27,11341,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Piplod,Piplod,3 BHK,57.86,2250,2571.56,13041,Apartment,Builder,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Rander,Rander,3 BHK,58.41,2125,2748.71,11207,Apartment,Owner,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Rander,Rander,2 BHK,58.47,1187,4925.86,13663,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Katargam,Katargam,2 BHK,59.9,1177,5089.21,13537,Apartment,Builder,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Adajan,Adajan,3 BHK,60.21,2212,2721.97,11450,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Varachha,Varachha,2 BHK,60.89,1134,5369.49,13275,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Piplod,Piplod,2 BHK,61.23,1156,5296.71,11429,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Adajan,Adajan,2 BHK,62.62,1172,5343,11595,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Dindoli,Dindoli,3 BHK,63.88,2170,2943.78,12547,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Piplod,Piplod,2 BHK,64.03,2183,2933.12,14348,Apartment,Builder,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Althan,Althan,3 BHK,67.54,1279,5280.69,15466,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Udhana,Udhana,2 BHK,68.89,2205,3124.26,14870,Apartment,Owner,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Althan,Althan,2 BHK,69.11,2300,3004.78,15093,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Varachha,Varachha,3 BHK,70.06,1241,5645.45,15358,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Citylight,Citylight,3 BHK,70.07,1283,5461.42,16112,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Pal,Pal,2 BHK,71.14,2288,3109.27,14952,Apartment,Builder,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Dindoli,Dindoli,2 BHK,72.72,2129,3415.69,13715,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Citylight,Citylight,3 BHK,72.99,3385,2156.28,17020,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Sayan,Sayan,3 BHK,73.35,1303,5629.32,14186,Apartment,Owner,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Varachha,Varachha,2 BHK,74.37,2283,3257.56,14780,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Sayan,Sayan,3 BHK,74.77,2119,3528.55,17013,Apartment,Owner,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Rander,Rander,2 BHK,75.3,2105,3577.2,13672,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Parle Point,Parle Point,3 BHK,75.69,3300,2293.64,16819,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Dindoli,Dindoli,3 BHK,75.73,2189,3459.57,16207,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Sayan,Sayan,2 BHK,75.81,2267,3344.07,13560,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Citylight,Citylight,3 BHK,76.6,2201,3480.24,16913,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Althan,Althan,3 BHK,76.73,3175,2416.69,18135,Apartment,Builder,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Sayan,Sayan,3 BHK,77.48,3337,2321.85,16008,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Udhana,Udhana,3 BHK,78.48,1289,6088.44,15765,Apartment,Dealer,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Parle Point,Parle Point,3 BHK,78.96,1208,6536.42,16557,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Udhana,Udhana,3 BHK,79.56,3161,2516.93,15770,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Althan,Althan,3 BHK,80.88,2126,3804.33,16160,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Varachha,Varachha,3 BHK,80.89,2152,3758.83,15134,Apartment,Dealer,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Athwalines,Athwalines,3 BHK,80.95,2103,3849.26,17322,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Rander,Rander,3 BHK,81.38,1219,6675.96,15297,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Dindoli,Dindoli,3 BHK,81.48,1202,6778.7,16974,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Althan,Althan,4 BHK,82.42,2132,3865.85,19824,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Athwalines,Athwalines,4 BHK,82.59,2285,3614.44,18614,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Citylight,Citylight,3 BHK,83.18,886,9388.26,18492,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Anand Mahal,Anand Mahal,3 BHK,83.79,3281,2553.79,17973,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Athwalines,Athwalines,3 BHK,84.33,831,10148.01,20263,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,4 BHK Apartment in Citylight,Citylight,4 BHK,84.73,2137,3964.9,17043,Apartment,Dealer,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Magdalla,Magdalla,3 BHK,85.6,3176,2695.21,17751,Apartment,Builder,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Parle Point,Parle Point,3 BHK,85.74,2245,3819.15,16316,Apartment,Dealer,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Udhana,Udhana,3 BHK,86.67,2247,3857.14,16946,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Athwalines,Athwalines,3 BHK,87.7,3161,2774.44,15817,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Althan,Althan,3 BHK,90.06,905,9951.38,18636,Apartment,Builder,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Bhatar,Bhatar,3 BHK,90.37,875,10328,18312,Apartment,Builder,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Magdalla,Magdalla,2 BHK,91.45,2202,4153.04,21182,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Bhatar,Bhatar,2 BHK,91.52,2079,4402.12,20786,Apartment,Builder,Fully Furnished,Under Construction
+Surat,4 BHK Apartment in Magdalla,Magdalla,4 BHK,93.58,2227,4202.07,18650,Apartment,Owner,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Mota Varachha,Mota Varachha,3 BHK,94.03,867,10845.44,17609,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Anand Mahal,Anand Mahal,3 BHK,94.14,895,10518.44,18085,Apartment,Builder,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Mota Varachha,Mota Varachha,2 BHK,94.27,2224,4238.76,21721,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,4 BHK Apartment in Bhatar,Bhatar,4 BHK,94.36,2149,4390.88,17124,Apartment,Dealer,Unfurnished,Under Construction
+Surat,4 BHK Apartment in Anand Mahal,Anand Mahal,4 BHK,95.04,2154,4412.26,19381,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Magdalla,Magdalla,3 BHK,95.21,844,11280.81,20407,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Parle Point,Parle Point,3 BHK,95.26,831,11463.3,17788,Apartment,Owner,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Adajan,Adajan,3 BHK,95.57,2177,4389.99,19642,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,4 BHK Apartment in Parle Point,Parle Point,4 BHK,96.07,2229,4310,16514,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,4 BHK Apartment in Sayan,Sayan,4 BHK,96.54,2162,4465.31,17142,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Nanpura,Nanpura,2 BHK,97.54,2101,4642.55,19216,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Vesu,Vesu,3 BHK,97.75,2148,4550.74,20068,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Anand Mahal,Anand Mahal,3 BHK,98.91,2283,4332.46,22417,Apartment,Owner,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Athwalines,Athwalines,2 BHK,99.6,2158,4615.38,22897,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Kapodra,Kapodra,3 BHK,101.35,2196,4615.21,21188,Apartment,Builder,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Parle Point,Parle Point,2 BHK,102.1,2076,4918.11,19616,Apartment,Builder,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Mota Varachha,Mota Varachha,3 BHK,103,2168,4750.92,19887,Apartment,Builder,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Nanpura,Nanpura,3 BHK,104.47,2287,4567.99,23562,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Kapodra,Kapodra,2 BHK,105.37,2249,4685.19,20680,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Katargam,Katargam,3 BHK,107.26,2236,4796.96,22739,Apartment,Builder,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Anand Mahal,Anand Mahal,2 BHK,108.25,2219,4878.32,21551,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,1 BHK Apartment in Piplod,Piplod,1 BHK,110.68,1235,8961.94,25129,Apartment,Owner,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Bhatar,Bhatar,3 BHK,113.85,2180,5222.48,20634,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,1 BHK Apartment in Katargam,Katargam,1 BHK,115.77,2144,5399.72,25507,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,1 BHK Apartment in Katargam,Katargam,1 BHK,117.17,1291,9075.91,22911,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Pal,Pal,1 BHK,118.29,2104,5622.15,26261,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,1 BHK Apartment in Nanpura,Nanpura,1 BHK,119.06,1272,9360.06,26495,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,1 BHK Apartment in Mota Varachha,Mota Varachha,1 BHK,119.95,1217,9856.2,22870,Apartment,Owner,Unfurnished,Ready to Move
+Surat,1 BHK Apartment in Pal,Pal,1 BHK,120.6,1221,9877.15,27322,Apartment,Owner,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Katargam,Katargam,2 BHK,121.29,2115,5734.75,28325,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Adajan,Adajan,1 BHK,123.27,2178,5659.78,28587,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Varachha,Varachha,2 BHK,123.74,2198,5629.66,29667,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Kapodra,Kapodra,1 BHK,123.98,1272,9746.86,25766,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,1 BHK Apartment in Vesu,Vesu,1 BHK,124.85,1205,10361,26119,Apartment,Builder,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Sayan,Sayan,2 BHK,125.34,2100,5968.57,25306,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Piplod,Piplod,1 BHK,126.08,2209,5707.56,26415,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,1 BHK Apartment in Adajan,Adajan,1 BHK,127.26,1291,9857.47,27278,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Pal,Pal,3 BHK,128.5,3223,3986.97,31432,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Kapodra,Kapodra,1 BHK,128.72,2240,5746.43,25496,Apartment,Builder,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Dindoli,Dindoli,2 BHK,130.73,2184,5985.81,27574,Apartment,Dealer,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Althan,Althan,3 BHK,133.66,3419,3909.33,28212,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,1 BHK Apartment in Vesu,Vesu,1 BHK,133.85,2139,6257.6,26642,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Rander,Rander,1 BHK,134.06,2253,5950.29,25470,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Rander,Rander,2 BHK,134.63,2170,6204.15,26813,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Sayan,Sayan,3 BHK,135.31,3246,4168.52,31287,Apartment,Owner,Unfurnished,Ready to Move
+Surat,1 BHK Apartment in Nanpura,Nanpura,1 BHK,135.75,2186,6209.97,28355,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Udhana,Udhana,2 BHK,136.02,2242,6066.9,29996,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,5 BHK Apartment in Athwalines,Athwalines,5 BHK,139.96,2065,6777.72,30392,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Dindoli,Dindoli,3 BHK,141.24,3248,4348.52,26418,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,5 BHK Apartment in Sayan,Sayan,5 BHK,141.99,2071,6856.11,30391,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Piplod,Piplod,2 BHK,143.84,2241,6418.56,26514,Apartment,Builder,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Citylight,Citylight,3 BHK,144.55,3134,4612.32,28168,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Rander,Rander,3 BHK,144.76,3230,4481.73,29257,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Pal,Pal,2 BHK,146.21,2212,6609.86,30184,Apartment,Builder,Unfurnished,Under Construction
+Surat,5 BHK Apartment in Anand Mahal,Anand Mahal,5 BHK,146.82,2168,6772.14,33971,Apartment,Owner,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Varachha,Varachha,3 BHK,148.21,3337,4441.41,26662,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Magdalla,Magdalla,2 BHK,148.35,1220,12159.84,33710,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,5 BHK Apartment in Udhana,Udhana,5 BHK,151.6,2091,7250.12,31904,Apartment,Owner,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Udhana,Udhana,3 BHK,151.91,3353,4530.57,27456,Apartment,Owner,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Mota Varachha,Mota Varachha,2 BHK,154.07,1219,12639.05,32733,Apartment,Builder,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Nanpura,Nanpura,2 BHK,154.27,1283,12024.16,34763,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Vesu,Vesu,2 BHK,156.15,1306,11956.36,33806,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,5 BHK Apartment in Althan,Althan,5 BHK,158.25,2199,7196.45,32589,Apartment,Builder,Unfurnished,Under Construction
+Surat,5 BHK Apartment in Parle Point,Parle Point,5 BHK,158.61,2055,7718.25,28848,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Athwalines,Athwalines,2 BHK,159.86,1257,12717.58,30885,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Bhatar,Bhatar,2 BHK,160.48,1257,12766.91,36297,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,5 BHK Apartment in Magdalla,Magdalla,5 BHK,162.45,2186,7431.38,33321,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,4 BHK Apartment in Katargam,Katargam,4 BHK,164,1208,13576.16,34488,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,5 BHK Apartment in Citylight,Citylight,5 BHK,164.77,2057,8010.21,30186,Apartment,Owner,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Kapodra,Kapodra,2 BHK,164.9,1244,13255.63,34845,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,4 BHK Apartment in Adajan,Adajan,4 BHK,165.66,1251,13242.21,36377,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,4 BHK Apartment in Piplod,Piplod,4 BHK,168.43,1221,13794.43,39465,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Anand Mahal,Anand Mahal,2 BHK,170.33,1237,13769.6,35143,Apartment,Builder,Fully Furnished,Under Construction
+Surat,4 BHK Apartment in Pal,Pal,4 BHK,175.9,1198,14682.8,39002,Apartment,Owner,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Udhana,Udhana,2 BHK,180.89,898,20143.65,40722,Apartment,Builder,Fully Furnished,Under Construction
+Surat,4 BHK Apartment in Vesu,Vesu,4 BHK,184.66,1286,14359.25,33985,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Sayan,Sayan,2 BHK,186.58,842,22159.14,40268,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,4 BHK Apartment in Rander,Rander,4 BHK,186.71,1290,14473.64,38122,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Dindoli,Dindoli,4 BHK,187.95,1281,14672.13,39592,Apartment,Owner,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Nanpura,Nanpura,4 BHK,192.17,1216,15803.45,37416,Apartment,Builder,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Citylight,Citylight,2 BHK,193.38,825,23440,38934,Apartment,Builder,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Dindoli,Dindoli,2 BHK,196.74,872,22561.93,37788,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Varachha,Varachha,2 BHK,203.87,904,22551.99,39479,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,2 BHK Apartment in Pal,Pal,2 BHK,205.06,857,23927.65,44954,Apartment,Builder,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Mota Varachha,Mota Varachha,3 BHK,207.23,1119,18519.21,44137,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Kapodra,Kapodra,3 BHK,209.78,1124,18663.7,48474,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Althan,Althan,2 BHK,210.24,883,23809.74,41068,Apartment,Builder,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Rander,Rander,2 BHK,218.96,859,25490.1,41872,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Athwalines,Athwalines,3 BHK,225.77,1172,19263.65,52107,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Anand Mahal,Anand Mahal,3 BHK,235.11,1138,20659.93,44782,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Nanpura,Nanpura,3 BHK,237.17,1141,20786.15,51017,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,1 BHK Apartment in Piplod,Piplod,1 BHK,242.38,895,27081.56,59034,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Vesu,Vesu,3 BHK,245.31,1139,21537.31,49968,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Bhatar,Bhatar,3 BHK,251.68,1112,22633.09,47149,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Magdalla,Magdalla,3 BHK,252.23,1144,22048.08,46120,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Pal,Pal,1 BHK,256.8,827,31052,56636,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,1 BHK Apartment in Vesu,Vesu,1 BHK,258.1,842,30653.21,50814,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Katargam,Katargam,1 BHK,258.7,839,30834.33,55607,Apartment,Owner,Fully Furnished,Under Construction
+Surat,1 BHK Apartment in Varachha,Varachha,1 BHK,261.76,838,31236.28,57014,Apartment,Builder,Unfurnished,Under Construction
+Surat,1 BHK Apartment in Rander,Rander,1 BHK,265.64,863,30781,51490,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,1 BHK Apartment in Adajan,Adajan,1 BHK,269.85,865,31196.53,56716,Apartment,Dealer,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Piplod,Piplod,2 BHK,272,3344,8133.97,60430,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Dindoli,Dindoli,1 BHK,281.8,906,31103.75,55878,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Vesu,Vesu,2 BHK,293.03,3357,8728.92,56465,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Kapodra,Kapodra,2 BHK,301.1,3284,9168.7,59518,Apartment,Builder,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Adajan,Adajan,2 BHK,302.34,3395,8905.45,60125,Apartment,Owner,Fully Furnished,Under Construction
+Surat,2 BHK Apartment in Katargam,Katargam,2 BHK,309.25,3310,9342.9,59132,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Mota Varachha,Mota Varachha,2 BHK,320.91,3257,9852.93,62608,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Bhatar,Bhatar,2 BHK,321.7,3257,9877.19,61065,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Nanpura,Nanpura,2 BHK,326.84,3269,9998.16,64403,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Magdalla,Magdalla,3 BHK,339.57,1310,25921.37,67750,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Mota Varachha,Mota Varachha,3 BHK,345.46,1238,27904.68,76940,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Anand Mahal,Anand Mahal,3 BHK,358.48,1221,29359.54,76198,Apartment,Builder,Semi-Furnished,Under Construction
+Surat,3 BHK Apartment in Parle Point,Parle Point,3 BHK,359.67,1283,28033.52,74856,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,4 BHK Apartment in Althan,Althan,4 BHK,360.89,865,41721.39,78029,Apartment,Builder,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Kapodra,Kapodra,3 BHK,362.9,1205,30116.18,71504,Apartment,Builder,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Citylight,Citylight,3 BHK,363.49,1301,27939.28,72142,Apartment,Owner,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Athwalines,Athwalines,3 BHK,371.96,1203,30919.37,66489,Apartment,Builder,Fully Furnished,Under Construction
+Surat,4 BHK Apartment in Parle Point,Parle Point,4 BHK,375.2,851,44089.31,87849,Apartment,Dealer,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Bhatar,Bhatar,3 BHK,381.68,1296,29450.62,69496,Apartment,Builder,Unfurnished,Under Construction
+Surat,4 BHK Apartment in Varachha,Varachha,4 BHK,389.78,835,46680.24,79036,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,4 BHK Apartment in Sayan,Sayan,4 BHK,393.59,828,47535.02,77381,Apartment,Dealer,Semi-Furnished,Ready to Move
+Surat,4 BHK Apartment in Athwalines,Athwalines,4 BHK,399.11,856,46625,75018,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Citylight,Citylight,4 BHK,407.99,838,48686.16,77760,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Rander,Rander,3 BHK,416.46,3447,12081.81,98130,Apartment,Owner,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Dindoli,Dindoli,4 BHK,424.19,877,48368.3,82623,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,4 BHK Apartment in Udhana,Udhana,4 BHK,426.21,835,51043.11,75412,Apartment,Owner,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Pal,Pal,3 BHK,427.19,3154,13544.39,99248,Apartment,Builder,Fully Furnished,Under Construction
+Surat,1 BHK Apartment in Katargam,Katargam,1 BHK,452.3,830,54493.98,112023,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,1 BHK Apartment in Piplod,Piplod,1 BHK,459.28,895,51316.2,100224,Apartment,Owner,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Sayan,Sayan,3 BHK,463.97,3123,14856.55,96083,Apartment,Owner,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Dindoli,Dindoli,3 BHK,479.86,3143,15267.58,89145,Apartment,Owner,Semi-Furnished,Under Construction
+Surat,1 BHK Apartment in Vesu,Vesu,1 BHK,482.41,848,56887.97,113365,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,1 BHK Apartment in Nanpura,Nanpura,1 BHK,486.47,870,55916.09,94717,Apartment,Dealer,Fully Furnished,Under Construction
+Surat,1 BHK Apartment in Kapodra,Kapodra,1 BHK,487.01,879,55405.01,109228,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,1 BHK Apartment in Adajan,Adajan,1 BHK,487.9,862,56600.93,105756,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Katargam,Katargam,3 BHK,488.19,3226,15132.98,85684,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Varachha,Varachha,3 BHK,488.57,3181,15359.01,85794,Apartment,Builder,Unfurnished,Under Construction
+Surat,3 BHK Apartment in Udhana,Udhana,3 BHK,490.42,3389,14470.94,90555,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,1 BHK Apartment in Mota Varachha,Mota Varachha,1 BHK,492.44,833,59116.45,100822,Apartment,Owner,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Piplod,Piplod,3 BHK,494.32,3139,15747.69,100924,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,1 BHK Apartment in Bhatar,Bhatar,1 BHK,515.04,855,60238.6,97649,Apartment,Builder,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Magdalla,Magdalla,3 BHK,975.05,3171,30748.98,223385,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Anand Mahal,Anand Mahal,3 BHK,975.88,3233,30184.97,193869,Apartment,Builder,Fully Furnished,Under Construction
+Surat,3 BHK Apartment in Kapodra,Kapodra,3 BHK,999.52,3349,29845.33,210210,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Adajan,Adajan,3 BHK,1001.6,3184,31457.29,191331,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Bhatar,Bhatar,3 BHK,1030.53,3226,31944.51,228480,Apartment,Owner,Unfurnished,Ready to Move
+Surat,3 BHK Apartment in Mota Varachha,Mota Varachha,3 BHK,1045.88,3358,31145.92,221929,Apartment,Dealer,Fully Furnished,Ready to Move
+Surat,3 BHK Apartment in Nanpura,Nanpura,3 BHK,1057.69,3315,31906.18,211343,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,3 BHK Apartment in Vesu,Vesu,3 BHK,1083.5,3400,31867.65,193991,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Althan,Althan,2 BHK,1890.64,1124,168206.41,410634,Apartment,Owner,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Sayan,Sayan,2 BHK,1907.14,1123,169825.47,447005,Apartment,Owner,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Athwalines,Athwalines,2 BHK,1978.23,1125,175842.67,389629,Apartment,Dealer,Semi-Furnished,Under Construction
+Surat,2 BHK Apartment in Parle Point,Parle Point,2 BHK,2059.54,1141,180503.07,412173,Apartment,Owner,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Magdalla,Magdalla,2 BHK,2092.05,1139,183674.28,406612,Apartment,Dealer,Unfurnished,Under Construction
+Surat,2 BHK Apartment in Udhana,Udhana,2 BHK,2119.18,1198,176893.16,423167,Apartment,Builder,Semi-Furnished,Ready to Move
+Surat,2 BHK Apartment in Citylight,Citylight,2 BHK,2142.68,1114,192341.11,442353,Apartment,Dealer,Unfurnished,Ready to Move
+Surat,2 BHK Apartment in Varachha,Varachha,2 BHK,2167.56,1222,177378.07,427340,Apartment,Owner,Semi-Furnished,Ready to Move
