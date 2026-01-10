@@ -17,7 +17,7 @@ INVEST_RETURN = 0.10
 BASE_DIR = Path(__file__).resolve().parent
 
 # ===================== LOAD DATA =====================
-df = pd.read_csv(BASE_DIR / "merged_real_estate_data_FINAL_CORRECTED.csv")
+df = pd.read_csv(BASE_DIR / "merged_real_estate_data_RAG.csv")
 
 # normalize column names
 df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
