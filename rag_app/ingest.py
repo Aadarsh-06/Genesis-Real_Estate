@@ -7,7 +7,7 @@ from tfidf_embedding import TfidfEmbeddingFunction
 
 # Constants
 BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_PATH = BASE_DIR / "calaculate_financial_terms" / "output" / "buy_vs_rent_FINAL_ANALYSIS.csv"
+DATA_PATH = BASE_DIR / "calaculate_financial_terms" / "output" / "buy_vs_rent_FINAL_ANALYSIS_v2.csv"
 CHROMA_DB_DIR = BASE_DIR / "rag_app" / "chroma_db"
 VECTORIZER_PATH = BASE_DIR / "rag_app" / "vectorizer.pkl"
 COLLECTION_NAME = "real_estate"
@@ -42,13 +42,39 @@ def ingest_data():
             f"Buy vs Rent Decision: {row['decision']} (Wealth Diff: ₹{row['wealth_difference']})."
         )
         
+        # Helper to safely convert to float
+        def safe_float(val, default=0.0):
+            try:
+                if pd.isna(val) or val == "":
+                    return default
+                return float(val)
+            except:
+                return default
+        
         documents.append(text_content)
         metadatas.append({
             "city": str(row["city"]),
+            "location": str(row["location"]),
             "bedrooms": str(row["bedrooms"]),
-            "price_lakhs": float(row["price_lakhs"]) if row["price_lakhs"] != "" else 0.0,
+            "price_lakhs": safe_float(row["price_lakhs"]),
             "decision": str(row["decision"]),
-            "source_row": idx
+            "source_row": idx,
+            # Additional fields for "Why?" explanation
+            "area_sqft": safe_float(row["area_sqft"]),
+            "monthly_rent": safe_float(row["estimated_monthly_rent"]),
+            "monthly_emi": safe_float(row["monthly_emi"]),
+            "effective_emi": safe_float(row["effective_emi"]),
+            "down_payment": safe_float(row["down_payment"]),
+            "loan_amount": safe_float(row["loan_amount"]),
+            "total_tax_saved": safe_float(row["total_tax_saved"]),
+            "final_property_value": safe_float(row["final_property_value"]),
+            "final_renting_wealth": safe_float(row["final_renting_wealth"]),
+            "wealth_difference": safe_float(row["wealth_difference"]),
+            # Flip thresholds for "What would flip?" feature
+            "current_interest_rate": safe_float(row.get("current_interest_rate", 0)),
+            "interest_rate_flip": safe_float(row.get("interest_rate_flip", 0)),
+            "rent_flip": safe_float(row.get("rent_flip", 0)),
+            "holding_period_flip": safe_float(row.get("holding_period_flip", 0))
         })
         ids.append(str(idx))
 
