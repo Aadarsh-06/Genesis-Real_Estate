@@ -114,7 +114,7 @@ export default function MarketSnapshot() {
 
   // Filter section component
   const FiltersSection = () => (
-    <div className="glass-card rounded-2xl p-5 mb-6 animate-slide-up">
+    <div className="glass-card rounded-2xl p-5 mb-6">
       <div className="flex items-center justify-between mb-4">
         <h3 className="text-sm font-semibold text-white flex items-center gap-2">
           Filters
@@ -207,12 +207,11 @@ export default function MarketSnapshot() {
               setSelectedCity(e.target.value);
               setSelectedLocalities([]);
             }}
-            className="w-full px-3 py-1.5 rounded-lg border border-[#00d4ff]/20 text-slate-200 text-xs focus:border-[#00d4ff] outline-none transition-colors cursor-pointer"
-            style={{ background: 'rgba(0,212,255,0.05)' }}
+            className="w-full px-3 py-1.5 rounded-lg border border-[#00d4ff]/20 text-slate-200 text-xs focus:border-[#00d4ff] outline-none transition-colors cursor-pointer bg-[#0a1628]"
           >
-            <option value="all">All Cities</option>
-            <option value="Bangalore">Bangalore</option>
-            <option value="Mumbai">Mumbai</option>
+            <option value="all" className="bg-[#0a1628] text-slate-200">All Cities</option>
+            <option value="Bangalore" className="bg-[#0a1628] text-slate-200">Bangalore</option>
+            <option value="Mumbai" className="bg-[#0a1628] text-slate-200">Mumbai</option>
           </select>
         </div>
       </div>

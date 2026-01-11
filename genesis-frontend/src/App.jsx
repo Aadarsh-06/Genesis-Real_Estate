@@ -295,15 +295,6 @@ function App() {
                 About
               </button>
             </div>
-
-            {/* Intent Badge */}
-            <div className="w-40 flex justify-end">
-              {intent && activeTab === "ai" && (
-                <div className="px-4 py-2 rounded-full text-xs bg-[#00d4ff]/20 text-[#00d4ff] border border-[#00d4ff]/30 font-medium animate-fade-in">
-                  {intent}
-                </div>
-              )}
-            </div>
           </div>
         </div>
       </nav>
