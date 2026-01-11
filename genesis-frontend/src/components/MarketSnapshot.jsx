@@ -45,7 +45,7 @@ export default function MarketSnapshot() {
   const fetchData = useCallback(() => {
     setLoading(true);
     setInsufficientData(false);
-    
+
     const params = new URLSearchParams();
     if (selectedBhk.length > 0) params.append("bhk", selectedBhk.join(","));
     if (priceRange[0] > 0 || (filterOptions && priceRange[1] < filterOptions.price_range.max)) {
@@ -59,7 +59,7 @@ export default function MarketSnapshot() {
     if (selectedLocalities.length > 0) params.append("localities", selectedLocalities.join(","));
 
     const url = `${BASE_URL}/market_snapshot${params.toString() ? "?" + params.toString() : ""}`;
-    
+
     fetch(url)
       .then((res) => res.json())
       .then((d) => {
@@ -114,34 +114,34 @@ export default function MarketSnapshot() {
 
   // Filter section component
   const FiltersSection = () => (
-    <div className="bg-slate-900/80 rounded-2xl p-5 mb-6 border border-slate-800">
+    <div className="glass-card rounded-2xl p-5 mb-6 animate-slide-up">
       <div className="flex items-center justify-between mb-4">
-        <h3 className="text-sm font-semibold text-slate-200 flex items-center gap-2">
-          <span>🎛️</span> Filters
+        <h3 className="text-sm font-semibold text-white flex items-center gap-2">
+          Filters
           <span className="text-xs text-slate-500 font-normal ml-2">Charts update based on selected filters</span>
         </h3>
         <button
           onClick={resetFilters}
-          className="text-xs px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white transition-colors border border-slate-700"
+          className="text-xs px-3 py-1.5 rounded-lg border border-[#00d4ff]/30 text-[#00d4ff] hover:bg-[#00d4ff]/10 transition-all"
         >
-          ↺ Reset Filters
+          Reset Filters
         </button>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         {/* BHK Filter */}
         <div>
-          <label className="text-xs text-slate-400 mb-2 block">🏠 BHK Type</label>
+          <label className="text-xs text-slate-400 mb-2 block">BHK Type</label>
           <div className="flex flex-wrap gap-2">
             {filterOptions?.bhk_options?.map((bhk) => (
               <button
                 key={bhk}
                 onClick={() => toggleBhk(bhk)}
-                className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-all ${
-                  selectedBhk.includes(bhk)
-                    ? "bg-indigo-500 text-white"
-                    : "bg-slate-800 text-slate-400 hover:bg-slate-700 border border-slate-700"
-                }`}
+                className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-all ${selectedBhk.includes(bhk)
+                  ? "bg-[#00d4ff] text-[#0a1628]"
+                  : "border border-[#00d4ff]/20 text-slate-400 hover:border-[#00d4ff]/50 hover:text-[#00d4ff]"
+                  }`}
+                style={!selectedBhk.includes(bhk) ? { background: 'rgba(0,212,255,0.05)' } : {}}
               >
                 {bhk} BHK
               </button>
@@ -152,13 +152,14 @@ export default function MarketSnapshot() {
 
         {/* Budget Range */}
         <div>
-          <label className="text-xs text-slate-400 mb-2 block">💰 Budget (₹ Lakhs)</label>
+          <label className="text-xs text-slate-400 mb-2 block">Budget (₹ Lakhs)</label>
           <div className="flex items-center gap-2">
             <input
               type="number"
               value={priceRange[0]}
               onChange={(e) => setPriceRange([Number(e.target.value), priceRange[1]])}
-              className="w-20 px-2 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-200 text-xs"
+              className="w-20 px-2 py-1.5 rounded-lg border border-[#00d4ff]/20 text-slate-200 text-xs focus:border-[#00d4ff] outline-none transition-colors"
+              style={{ background: 'rgba(0,212,255,0.05)' }}
               placeholder="Min"
             />
             <span className="text-slate-600">-</span>
@@ -166,7 +167,8 @@ export default function MarketSnapshot() {
               type="number"
               value={priceRange[1]}
               onChange={(e) => setPriceRange([priceRange[0], Number(e.target.value)])}
-              className="w-20 px-2 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-200 text-xs"
+              className="w-20 px-2 py-1.5 rounded-lg border border-[#00d4ff]/20 text-slate-200 text-xs focus:border-[#00d4ff] outline-none transition-colors"
+              style={{ background: 'rgba(0,212,255,0.05)' }}
               placeholder="Max"
             />
           </div>
@@ -174,13 +176,14 @@ export default function MarketSnapshot() {
 
         {/* Area Range */}
         <div>
-          <label className="text-xs text-slate-400 mb-2 block">📐 Area (sqft)</label>
+          <label className="text-xs text-slate-400 mb-2 block">Area (sqft)</label>
           <div className="flex items-center gap-2">
             <input
               type="number"
               value={areaRange[0]}
               onChange={(e) => setAreaRange([Number(e.target.value), areaRange[1]])}
-              className="w-20 px-2 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-200 text-xs"
+              className="w-20 px-2 py-1.5 rounded-lg border border-[#00d4ff]/20 text-slate-200 text-xs focus:border-[#00d4ff] outline-none transition-colors"
+              style={{ background: 'rgba(0,212,255,0.05)' }}
               placeholder="Min"
             />
             <span className="text-slate-600">-</span>
@@ -188,7 +191,8 @@ export default function MarketSnapshot() {
               type="number"
               value={areaRange[1]}
               onChange={(e) => setAreaRange([areaRange[0], Number(e.target.value)])}
-              className="w-20 px-2 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-200 text-xs"
+              className="w-20 px-2 py-1.5 rounded-lg border border-[#00d4ff]/20 text-slate-200 text-xs focus:border-[#00d4ff] outline-none transition-colors"
+              style={{ background: 'rgba(0,212,255,0.05)' }}
               placeholder="Max"
             />
           </div>
@@ -196,14 +200,15 @@ export default function MarketSnapshot() {
 
         {/* City Selector for Localities */}
         <div>
-          <label className="text-xs text-slate-400 mb-2 block">📍 City</label>
+          <label className="text-xs text-slate-400 mb-2 block">City</label>
           <select
             value={selectedCity}
             onChange={(e) => {
               setSelectedCity(e.target.value);
               setSelectedLocalities([]);
             }}
-            className="w-full px-3 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-200 text-xs"
+            className="w-full px-3 py-1.5 rounded-lg border border-[#00d4ff]/20 text-slate-200 text-xs focus:border-[#00d4ff] outline-none transition-colors cursor-pointer"
+            style={{ background: 'rgba(0,212,255,0.05)' }}
           >
             <option value="all">All Cities</option>
             <option value="Bangalore">Bangalore</option>
@@ -214,17 +219,17 @@ export default function MarketSnapshot() {
 
       {/* Locality Filter */}
       <div className="mt-4">
-        <label className="text-xs text-slate-400 mb-2 block">🏘️ Localities {selectedLocalities.length > 0 && `(${selectedLocalities.length} selected)`}</label>
+        <label className="text-xs text-slate-400 mb-2 block">Localities {selectedLocalities.length > 0 && `(${selectedLocalities.length} selected)`}</label>
         <div className="flex flex-wrap gap-1.5 max-h-20 overflow-y-auto">
           {getLocalitiesForCity().map((loc) => (
             <button
               key={loc}
               onClick={() => toggleLocality(loc)}
-              className={`px-2 py-1 rounded text-xs transition-all ${
-                selectedLocalities.includes(loc)
-                  ? "bg-emerald-500 text-white"
-                  : "bg-slate-800 text-slate-500 hover:bg-slate-700 hover:text-slate-300"
-              }`}
+              className={`px-2 py-1 rounded text-xs transition-all ${selectedLocalities.includes(loc)
+                ? "bg-[#00d4ff] text-[#0a1628]"
+                : "border border-[#00d4ff]/10 text-slate-500 hover:border-[#00d4ff]/30 hover:text-[#00d4ff]"
+                }`}
+              style={!selectedLocalities.includes(loc) ? { background: 'rgba(0,212,255,0.03)' } : {}}
             >
               {loc}
             </button>
@@ -234,16 +239,17 @@ export default function MarketSnapshot() {
       </div>
 
       {/* Active Filters Summary */}
-      {(selectedBhk.length > 0 || selectedLocalities.length > 0 || 
+      {(selectedBhk.length > 0 || selectedLocalities.length > 0 ||
         (filterOptions && (priceRange[0] > filterOptions.price_range.min || priceRange[1] < filterOptions.price_range.max)) ||
         (filterOptions && (areaRange[0] > filterOptions.area_range.min || areaRange[1] < filterOptions.area_range.max))) && (
-        <div className="mt-4 pt-3 border-t border-slate-800">
-          <p className="text-xs text-emerald-400">
-            ✓ Filters active — showing {data?.total_filtered || 0} properties
-          </p>
-        </div>
-      )}
-    </div>
+          <div className="mt-4 pt-3 border-t border-[#00d4ff]/10">
+            <p className="text-xs text-[#00d4ff]">
+              Filters active — showing {data?.total_filtered || 0} properties
+            </p>
+          </div>
+        )
+      }
+    </div >
   );
 
   if (error) return <div className="py-8 text-rose-400 text-center">Failed to load market snapshot.</div>;
@@ -265,10 +271,10 @@ export default function MarketSnapshot() {
     maintainAspectRatio: true,
     plugins: { legend: { display: false } },
     scales: {
-      y: { 
+      y: {
         beginAtZero: true,
         ticks: { color: "#64748b" },
-        grid: { color: "#1e293b" }
+        grid: { color: "rgba(0,212,255,0.1)" }
       },
       x: {
         ticks: { color: "#94a3b8" },
@@ -279,18 +285,18 @@ export default function MarketSnapshot() {
 
   return (
     <section className="w-full max-w-6xl mx-auto py-6 px-4">
-      <div className="flex items-center justify-between mb-4">
-        <h2 className="text-2xl font-bold bg-gradient-to-r from-indigo-400 via-emerald-400 to-amber-400 bg-clip-text text-transparent">
-          📊 Market Snapshot
+      <div className="flex items-center justify-between mb-4 animate-fade-in">
+        <h2 className="text-2xl font-bold text-[#00d4ff]">
+          Market Snapshot
         </h2>
-        {loading && <span className="text-xs text-slate-500 animate-pulse">Updating...</span>}
+        {loading && <span className="text-xs text-[#00d4ff] animate-pulse">Updating...</span>}
       </div>
 
       <FiltersSection />
 
       {insufficientData ? (
-        <div className="bg-amber-900/20 border border-amber-700/50 rounded-2xl p-8 text-center">
-          <span className="text-4xl mb-4 block">⚠️</span>
+        <div className="glass-card rounded-2xl p-8 text-center border-amber-500/30 animate-slide-up">
+          <span className="text-4xl mb-4 block text-amber-500">!</span>
           <h3 className="text-lg font-semibold text-amber-400 mb-2">Not Enough Data</h3>
           <p className="text-slate-400 text-sm mb-4">The selected filters return too few properties for meaningful analysis.</p>
           <button
@@ -302,7 +308,7 @@ export default function MarketSnapshot() {
         </div>
       ) : loading && !data ? (
         <div className="py-12 text-center text-slate-400">
-          <div className="h-8 w-8 rounded-full border-2 border-indigo-500 border-t-transparent animate-spin mx-auto mb-3"></div>
+          <div className="h-8 w-8 rounded-full border-2 border-[#00d4ff] border-t-transparent animate-spin mx-auto mb-3"></div>
           Loading market data...
         </div>
       ) : data ? (
@@ -310,16 +316,16 @@ export default function MarketSnapshot() {
           {/* Charts Grid */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
             {/* Bangalore Pie */}
-            <div className="bg-slate-900/60 rounded-2xl p-5 border border-slate-800">
-              <h3 className="text-sm font-semibold text-slate-300 mb-3 text-center">🏙️ Bangalore</h3>
+            <div className="glass-card rounded-2xl p-5 animate-slide-up" style={{ animationDelay: '100ms' }}>
+              <h3 className="text-sm font-semibold text-white mb-3 text-center">Bangalore</h3>
               <div className="h-48">
                 <Pie
                   data={{
                     labels: ["Buy", "Rent"],
                     datasets: [{
                       data: [data.buy_rent_distribution.Bangalore?.buy || 0, data.buy_rent_distribution.Bangalore?.rent || 0],
-                      backgroundColor: ["#34d399", "#fbbf24"],
-                      borderColor: ["#059669", "#b45309"],
+                      backgroundColor: ["#00d4ff", "#fbbf24"],
+                      borderColor: ["#00a8cc", "#b45309"],
                       borderWidth: 2,
                     }],
                   }}
@@ -332,16 +338,16 @@ export default function MarketSnapshot() {
             </div>
 
             {/* Mumbai Pie */}
-            <div className="bg-slate-900/60 rounded-2xl p-5 border border-slate-800">
-              <h3 className="text-sm font-semibold text-slate-300 mb-3 text-center">🏙️ Mumbai</h3>
+            <div className="glass-card rounded-2xl p-5 animate-slide-up" style={{ animationDelay: '200ms' }}>
+              <h3 className="text-sm font-semibold text-white mb-3 text-center">Mumbai</h3>
               <div className="h-48">
                 <Pie
                   data={{
                     labels: ["Buy", "Rent"],
                     datasets: [{
                       data: [data.buy_rent_distribution.Mumbai?.buy || 0, data.buy_rent_distribution.Mumbai?.rent || 0],
-                      backgroundColor: ["#34d399", "#fbbf24"],
-                      borderColor: ["#059669", "#b45309"],
+                      backgroundColor: ["#00d4ff", "#fbbf24"],
+                      borderColor: ["#00a8cc", "#b45309"],
                       borderWidth: 2,
                     }],
                   }}
@@ -354,8 +360,8 @@ export default function MarketSnapshot() {
             </div>
 
             {/* Median Price Bar */}
-            <div className="bg-slate-900/60 rounded-2xl p-5 border border-slate-800">
-              <h3 className="text-sm font-semibold text-slate-300 mb-3 text-center">💰 Median ₹/sqft</h3>
+            <div className="glass-card rounded-2xl p-5 animate-slide-up" style={{ animationDelay: '300ms' }}>
+              <h3 className="text-sm font-semibold text-white mb-3 text-center">Median ₹/sqft</h3>
               <div className="h-48">
                 <Bar
                   data={{
@@ -363,7 +369,7 @@ export default function MarketSnapshot() {
                     datasets: [{
                       label: "₹ per sqft",
                       data: [data.median_price_per_sqft.Bangalore || 0, data.median_price_per_sqft.Mumbai || 0],
-                      backgroundColor: ["#6366f1", "#f59e42"],
+                      backgroundColor: ["#00d4ff", "#38bdf8"],
                       borderRadius: 6,
                     }],
                   }}
@@ -377,8 +383,8 @@ export default function MarketSnapshot() {
           </div>
 
           {/* Break-Even Chart */}
-          <div className="bg-slate-900/60 rounded-2xl p-5 border border-slate-800">
-            <h3 className="text-sm font-semibold text-slate-300 mb-3">📅 Average Break-Even Period (Years)</h3>
+          <div className="glass-card rounded-2xl p-5 animate-slide-up" style={{ animationDelay: '400ms' }}>
+            <h3 className="text-sm font-semibold text-white mb-3">Average Break-Even Period (Years)</h3>
             <div className="h-48">
               <Bar
                 data={{
@@ -386,7 +392,7 @@ export default function MarketSnapshot() {
                   datasets: [{
                     label: "Years",
                     data: [data.avg_break_even_year.Bangalore || 0, data.avg_break_even_year.Mumbai || 0],
-                    backgroundColor: ["#10b981", "#fbbf24"],
+                    backgroundColor: ["#00d4ff", "#38bdf8"],
                     borderRadius: 6,
                   }],
                 }}
@@ -399,9 +405,9 @@ export default function MarketSnapshot() {
           </div>
 
           {/* Insight Summary */}
-          <div className="mt-6 bg-indigo-900/20 border border-indigo-700/30 rounded-xl p-4">
-            <p className="text-sm text-indigo-300">
-              💡 <strong>Insight:</strong> Based on {data.total_filtered || 0} filtered properties, 
+          <div className="mt-6 glass-card rounded-xl p-4 border-[#00d4ff]/30 animate-slide-up" style={{ animationDelay: '500ms' }}>
+            <p className="text-sm text-[#00d4ff]">
+              <strong>Insight:</strong> Based on {data.total_filtered || 0} filtered properties,
               {data.buy_rent_distribution.Bangalore?.buy > data.buy_rent_distribution.Mumbai?.buy
                 ? " Bangalore shows a stronger preference for buying over renting compared to Mumbai."
                 : " Mumbai shows more balanced buy vs rent decisions compared to Bangalore."}

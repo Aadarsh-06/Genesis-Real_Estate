@@ -2,33 +2,205 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply bg-slate-950 text-slate-100;
+/* ========== Custom Animations ========== */
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
 }
 
-/* Better Markdown Rendering */
+@keyframes pulse-glow {
+
+  0%,
+  100% {
+    box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);
+  }
+
+  50% {
+    box-shadow: 0 0 40px rgba(0, 212, 255, 0.6);
+  }
+}
+
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* ========== Custom Utility Classes ========== */
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient-shift 3s ease infinite;
+}
+
+.animate-slide-up {
+  animation: slide-up 0.5s ease-out forwards;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.4s ease-out forwards;
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, transparent, rgba(0, 212, 255, 0.1), transparent);
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
+
+@keyframes logo-reveal {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.9);
+    filter: blur(10px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+.animate-logo-reveal {
+  animation: logo-reveal 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+}
+
+/* ========== Base Styles ========== */
+body {
+  @apply text-slate-100;
+  background: linear-gradient(135deg, #0a1628 0%, #0d1f3c 50%, #0a1929 100%);
+  min-height: 100vh;
+}
+
+/* ========== Glassmorphism Card ========== */
+.glass-card {
+  background: rgba(13, 31, 60, 0.6);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(0, 212, 255, 0.1);
+}
+
+.glass-card:hover {
+  border-color: rgba(0, 212, 255, 0.3);
+  box-shadow: 0 8px 32px rgba(0, 212, 255, 0.1);
+}
+
+/* ========== Cyan Accent Button ========== */
+.btn-cyan {
+  @apply px-6 py-3 rounded-xl font-semibold transition-all duration-300;
+  background: linear-gradient(135deg, #00d4ff 0%, #00a8cc 100%);
+  color: #0a1628;
+  box-shadow: 0 4px 20px rgba(0, 212, 255, 0.3);
+}
+
+.btn-cyan:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(0, 212, 255, 0.5);
+}
+
+/* ========== Feature Chips ========== */
+.feature-chip {
+  @apply px-5 py-3 rounded-xl text-sm font-medium transition-all duration-300 flex items-center gap-2;
+  background: rgba(13, 31, 60, 0.8);
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  color: #94a3b8;
+}
+
+.feature-chip:hover {
+  border-color: rgba(0, 212, 255, 0.5);
+  color: #00d4ff;
+  transform: translateY(-2px);
+}
+
+.feature-chip.active {
+  background: rgba(0, 212, 255, 0.15);
+  border-color: #00d4ff;
+  color: #00d4ff;
+}
+
+/* ========== Better Markdown Rendering ========== */
 .markdown-content h2 {
-  @apply text-xl font-bold text-emerald-400 mt-6 mb-3 pb-2 border-b border-slate-700;
+  @apply text-xl font-bold mt-6 mb-3 pb-2;
+  color: #00d4ff;
+  border-bottom: 1px solid rgba(0, 212, 255, 0.2);
 }
 
 .markdown-content h3 {
-  @apply text-lg font-semibold text-indigo-400 mt-5 mb-2;
+  @apply text-lg font-semibold mt-5 mb-2;
+  color: #38bdf8;
 }
 
 .markdown-content p {
-  @apply text-slate-300 mb-4 leading-relaxed;
+  @apply mb-4 leading-relaxed;
+  color: #94a3b8;
 }
 
 .markdown-content strong {
-  @apply text-white font-semibold;
+  @apply font-semibold;
+  color: #e2e8f0;
 }
 
 .markdown-content ul {
-  @apply list-disc list-inside space-y-2 mb-4 text-slate-300;
+  @apply list-disc list-inside space-y-2 mb-4;
+  color: #94a3b8;
 }
 
 .markdown-content ol {
-  @apply list-decimal list-inside space-y-2 mb-4 text-slate-300;
+  @apply list-decimal list-inside space-y-2 mb-4;
+  color: #94a3b8;
 }
 
 .markdown-content li {
@@ -36,7 +208,8 @@ body {
 }
 
 .markdown-content hr {
-  @apply my-5 border-slate-700;
+  @apply my-5;
+  border-color: rgba(0, 212, 255, 0.2);
 }
 
 .markdown-content table {
@@ -44,17 +217,44 @@ body {
 }
 
 .markdown-content th {
-  @apply bg-slate-800 text-slate-200 px-3 py-2 text-left font-semibold border border-slate-700;
+  @apply px-3 py-2 text-left font-semibold;
+  background: rgba(0, 212, 255, 0.1);
+  color: #00d4ff;
+  border: 1px solid rgba(0, 212, 255, 0.2);
 }
 
 .markdown-content td {
-  @apply px-3 py-2 border border-slate-700 text-slate-300;
+  @apply px-3 py-2;
+  border: 1px solid rgba(0, 212, 255, 0.1);
+  color: #94a3b8;
 }
 
 .markdown-content code {
-  @apply bg-slate-800 px-1.5 py-0.5 rounded text-emerald-400 text-sm;
+  @apply px-1.5 py-0.5 rounded text-sm;
+  background: rgba(0, 212, 255, 0.1);
+  color: #00d4ff;
 }
 
 .markdown-content blockquote {
-  @apply border-l-4 border-indigo-500 pl-4 italic text-slate-400 my-4;
+  @apply pl-4 italic my-4;
+  border-left: 4px solid #00d4ff;
+  color: #64748b;
+}
+
+/* ========== Scrollbar Styling ========== */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a1628;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 212, 255, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 212, 255, 0.5);
 }
