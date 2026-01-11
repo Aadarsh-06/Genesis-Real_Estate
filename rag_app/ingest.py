@@ -7,7 +7,7 @@ from tfidf_embedding import TfidfEmbeddingFunction
 
 # Constants
 BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_PATH = BASE_DIR / "calaculate_financial_terms" / "output" / "buy_vs_rent_FINAL_ANALYSIS_v2.csv"
+DATA_PATH = BASE_DIR / "calaculate_financial_terms" / "output" / "buy_vs_rent_FINAL_ANALYSIS.csv"
 CHROMA_DB_DIR = BASE_DIR / "rag_app" / "chroma_db"
 VECTORIZER_PATH = BASE_DIR / "rag_app" / "vectorizer.pkl"
 COLLECTION_NAME = "real_estate"

@@ -268,8 +268,7 @@ CHITCHAT_RESPONSES = {
 FILTER_OPTIONS = {
     "cities": [
         {"label": "Mumbai", "value": "mumbai"},
-        {"label": "Bangalore", "value": "bangalore"},
-        {"label": "Surat", "value": "surat"}
+        {"label": "Bangalore", "value": "bangalore"}
     ],
     "property_types": [
         {"label": "1 BHK", "value": "1bhk"},
@@ -302,14 +301,45 @@ def parse_filters_from_query(query: str) -> dict:
     q = query.lower()
     filters = {}
     
+    # Supported cities
+    SUPPORTED_CITIES = ["mumbai", "bangalore", "bengaluru"]
+    
+    # Common Indian city names to detect unsupported city requests
+    KNOWN_CITIES = [
+        "delhi", "hyderabad", "chennai", "kolkata", "pune", "ahmedabad", 
+        "jaipur", "lucknow", "kanpur", "nagpur", "indore", "thane", 
+        "bhopal", "visakhapatnam", "pimpri", "patna", "vadodara", "ghaziabad",
+        "ludhiana", "agra", "nashik", "faridabad", "meerut", "rajkot", 
+        "varanasi", "srinagar", "aurangabad", "dhanbad", "amritsar", 
+        "navi mumbai", "allahabad", "ranchi", "howrah", "gwalior", "jabalpur",
+        "coimbatore", "vijayawada", "jodhpur", "madurai", "raipur", "kota",
+        "guwahati", "chandigarh", "solapur", "hubli", "mysore", "tiruchirappalli",
+        "bareilly", "aligarh", "tiruppur", "moradabad", "jalandhar", "bhubaneswar",
+        "salem", "warangal", "guntur", "bhiwandi", "saharanpur", "gorakhpur",
+        "bikaner", "amravati", "noida", "jamshedpur", "bhilai", "cuttack",
+        "firozabad", "kochi", "bhavnagar", "dehradun", "durgapur", "asansol",
+        "nanded", "kolhapur", "ajmer", "gulbarga", "jamnagar", "ujjain",
+        "loni", "siliguri", "jhansi", "ulhasnagar", "nellore", "jammu",
+        "sangli", "belgaum", "mangalore", "ambattur", "tirunelveli", "malegaon",
+        "gaya", "udaipur", "maheshtala", "davanagere", "kozhikode", "akola",
+        "surat", "gurgaon", "gurugram"
+    ]
+    
     # City detection - support multiple cities for comparison queries
     cities = []
     if "mumbai" in q:
         cities.append("Mumbai")
     if "bangalore" in q or "bengaluru" in q:
         cities.append("Bangalore")
-    if "surat" in q:
-        cities.append("Surat")
+    
+    # Detect if user is asking for an unsupported city
+    unsupported_cities = []
+    for city in KNOWN_CITIES:
+        if city in q and city not in ["mumbai", "bangalore", "bengaluru"]:
+            unsupported_cities.append(city.title())
+    
+    if unsupported_cities:
+        filters["unsupported_cities"] = unsupported_cities
     
     # If multiple cities, store as list for comparison; otherwise single city
     if len(cities) == 1:
@@ -404,6 +434,19 @@ def ask(request: QueryRequest):
     # Use extracted entities for filtering
     entities = intent_result.extracted_entities
     parsed_filters = parse_filters_from_query(query)
+    
+    # ========== CHECK FOR UNSUPPORTED CITIES ==========
+    if parsed_filters.get("unsupported_cities") and not parsed_filters.get("city") and not parsed_filters.get("cities"):
+        unsupported = parsed_filters["unsupported_cities"]
+        city_list = ", ".join(unsupported)
+        return {
+            "intent": "UNSUPPORTED_CITY",
+            "answer": f"🚫 **Data not available for {city_list}**\n\nCurrently, we only have property data for **Mumbai** and **Bangalore**. Please try searching for properties in these cities.\n\n💡 *Example: \"Show me 2BHK properties in Mumbai\" or \"3BHK apartments in Bangalore\"*",
+            "total_results": 0,
+            "properties": [],
+            "available_cities": ["Mumbai", "Bangalore"]
+        }
+    
     where_clause = build_chroma_where_clause(parsed_filters)
     
     # Query is specific enough - run retrieval with filters
@@ -437,7 +480,7 @@ def ask(request: QueryRequest):
     if not all_contexts:
         return {
             "intent": intent,
-            "answer": "I couldn't find any properties matching your query. Try specifying a city like Mumbai, Bangalore, or Surat with a property type (1-5 BHK).",
+            "answer": "I couldn't find any properties matching your query. Try specifying a city like Mumbai or Bangalore with a property type (1-5 BHK).",
             "total_results": 0,
             "properties": []
         }

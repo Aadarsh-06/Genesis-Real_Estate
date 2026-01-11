@@ -107,17 +107,15 @@ FILTER_KEYWORDS = [
     "available", "options",
 ]
 
-# Location entities - Only Bangalore, Surat, Mumbai available in database
+# Location entities - Only Bangalore, Mumbai available in database
 LOCATIONS = [
-    "mumbai", "bangalore", "bengaluru", "surat",
+    "mumbai", "bangalore", "bengaluru",
     # Mumbai localities
     "andheri", "bandra", "worli", "powai", "malad", "goregaon", "borivali",
     "dadar", "kurla", "chembur", "mulund", "thane", "navi mumbai",
     # Bangalore localities
     "whitefield", "electronic city", "koramangala", "indiranagar", "hsr layout",
     "marathahalli", "sarjapur", "hebbal", "yelahanka", "jp nagar", "btm layout",
-    # Surat localities
-    "adajan", "vesu", "piplod", "althan", "pal", "dumas", "athwa",
 ]
 
 

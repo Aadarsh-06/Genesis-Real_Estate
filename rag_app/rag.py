@@ -453,7 +453,7 @@ def parse_property_from_context(context: str) -> dict:
         property_info["type"] = f"{bhk_match.group(1)} BHK"
     
     # Location/City
-    cities = ["mumbai", "delhi", "hyderabad", "bangalore", "bengaluru", "pune", "surat", 
+    cities = ["mumbai", "delhi", "hyderabad", "bangalore", "bengaluru", "pune", 
               "chennai", "kolkata", "thane", "navi mumbai", "gurgaon", "noida"]
     for city in cities:
         if city in text:
