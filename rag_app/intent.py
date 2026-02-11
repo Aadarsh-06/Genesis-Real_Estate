@@ -56,13 +56,38 @@ EDUCATIONAL_KEYWORDS = [
     # Concept questions
     "what is roi", "what is emi", "what is wealth difference",
     "how does emi work", "how is emi calculated", "emi calculation",
-    "how does tax saving work", "tax benefit", "tax deduction", "80c", "24b",
+    "how does tax saving work", "tax benefit", "tax deduction", 
+    # Tax sections - comprehensive coverage
+    "80c", "80ee", "80eea", "24b", "section 24", "section 80",
+    "first time buyer", "first-time buyer", "first home buyer",
+    "hra", "house rent allowance", "pre-emi", "pre emi", "under construction",
+    "stamp duty", "registration charges", "principal repayment",
+    "interest deduction", "home loan tax", "tax on home loan",
+    "self-occupied", "let out", "rented property tax",
+    # Glossary terms
+    "nav", "net annual value", "deemed let out", "dlop", "sop",
+    "co-borrower", "co-owner", "co borrower", "co owner",
+    "possession", "sanction", "possession date", "sanction date",
+    "standard deduction", "pre-construction", "municipal tax",
+    "fair rent", "gross annual value",
+    # Legal/Regulatory questions
+    "laws", "law", "rules", "rule", "regulations", "regulation",
+    "eligibility", "eligible", "policy", "policies", "deductions",
+    "benefits", "benefit", "what are the", "how to claim", "can i claim",
+    "income tax", "it act", "income-tax", "rbi", "government",
+    # Other concepts
     "what is appreciation", "property appreciation", "how appreciation works",
     "rent vs buy logic", "buy vs rent logic", "rent or buy decision",
     "wealth difference meaning", "wealth difference logic",
     "loan amortization", "how loan works", "interest calculation",
     "down payment", "how much down payment",
     "investment return", "sip", "mutual fund", "fd return",
+    # System/Model/Assumptions - how the system works
+    "assumption", "assumptions", "what assumptions", "methodology",
+    "how does genesis", "how does the model", "how does the system",
+    "how does rag", "rag model", "model work", "system work",
+    "what parameters", "what values", "what rate", "appreciation rate",
+    "interest rate used", "return rate", "loan tenure", "tax slab",
     # General concept starters
     "explain the concept", "explain how", "what does .* mean",
     "how is .* calculated", "what are the factors",

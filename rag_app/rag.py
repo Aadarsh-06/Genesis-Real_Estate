@@ -117,6 +117,29 @@ Use clear sections with headers (###).
 Use --- between different topics.
 Keep paragraphs short (2-3 sentences max).
 Use bullet points for lists.
+""",
+
+    "EDUCATIONAL": """
+TASK: Explain concepts clearly and comprehensively for someone learning about real estate and home loans in India, using the provided documentation.
+
+CRITICAL FORMATTING RULES:
+- Provide a clear, detailed paragraph-style explanation of the concept.
+- Use the provided context to elaborate on the "what", "why", and "how".
+- After the paragraph explanation, you MAY use a table to summarize key parameters, rules, or assumptions if appropriate.
+- Do NOT be overly brief. Ensure the user gets a complete answer based on the context.
+
+FORMAT:
+
+### [Topic Name]
+
+[Detailed paragraph(s) explaining the concept in depth based on the documentation]
+
+[If applicable, a summary table for key parameters]
+| Parameter | Value | Rationale |
+|-----------|-------|-----------|
+| ... | ... | ... |
+
+> **Note:** [Relevant note from docs if any]
 """
 }
 
@@ -149,7 +172,25 @@ IMPORTANT: After presenting these {num_properties} properties, end your response
     else:
         more_prompt = ""
     
-    prompt = f"""
+    if intent == "EDUCATIONAL":
+        prompt = f"""
+{intent_prompt}
+
+---
+REFERENCE DOCUMENTATION:
+{context_block}
+---
+
+USER QUESTION: {question}
+
+Remember:
+- Answer concisely using the documentation above
+- Use tables for parameter/value listings
+- Keep the response short and scannable
+- Use markdown formatting for readability
+"""
+    else:
+        prompt = f"""
 {intent_prompt}
 
 You have {num_properties} properties to discuss. Present them in a conversational, helpful way.
@@ -163,7 +204,7 @@ PROPERTY DATA:
 
 USER QUESTION: {question}
 
-Remember: 
+Remember:
 - Be conversational and friendly, not like a database listing
 - Explain each property briefly with key numbers
 - Highlight the buy/rent recommendation and WHY

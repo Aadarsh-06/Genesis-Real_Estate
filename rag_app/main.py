@@ -36,9 +36,32 @@ client = chromadb.PersistentClient(path=str(CHROMA_DB_DIR))
 ef = TfidfEmbeddingFunction(vectorizer_path=str(VECTORIZER_PATH))
 collection = client.get_collection(name=COLLECTION_NAME, embedding_function=ef)
 
+# Initialize documentation collection for EDUCATIONAL queries
+DOCS_VECTORIZER_PATH = BASE_DIR / "rag_app" / "vectorizer_docs.pkl"
+DOCS_COLLECTION_NAME = "documentation"
+try:
+    docs_ef = TfidfEmbeddingFunction(vectorizer_path=str(DOCS_VECTORIZER_PATH))
+    docs_collection = client.get_collection(name=DOCS_COLLECTION_NAME, embedding_function=docs_ef)
+    print(f"[OK] Documentation collection loaded with {docs_collection.count()} chunks")
+except Exception as e:
+    docs_collection = None
+    print(f"[WARNING] Documentation collection not found: {e}. Run ingest_docs.py to create it.")
 
+# Cache for localities - populated at startup
+_LOCALITIES_CACHE = None
 
-# ...existing code...
+def _get_all_localities():
+    """Get all unique localities from the database (cached)."""
+    global _LOCALITIES_CACHE
+    if _LOCALITIES_CACHE is None:
+        all_docs = collection.get(include=["metadatas"])
+        metadatas = all_docs.get("metadatas", [])
+        if metadatas and isinstance(metadatas[0], list):
+            metadatas = [item for sublist in metadatas for item in sublist]
+        _LOCALITIES_CACHE = list(set(
+            m.get("location", "") for m in metadatas if m.get("location")
+        ))
+    return _LOCALITIES_CACHE
 
 # Helper function to get all property metadata
 def get_all_metadatas():
@@ -358,6 +381,18 @@ def parse_filters_from_query(query: str) -> dict:
     elif "buy" in q and "rent" not in q:
         filters["prefer_buy"] = True
     
+    # Locality detection - match against available localities in database
+    # Sort by length (longest first) to prevent partial substring matches
+    # e.g. "Pal" matching before "Pal Gam", or "ram nagar" before "saint tukaram nagar"
+    all_localities = sorted(_get_all_localities(), key=len, reverse=True)
+    for locality in all_localities:
+        loc_lower = locality.lower()
+        # Check if locality appears as a whole word/phrase in the query
+        # Use word boundary check to avoid matching "Pal" inside "palace"
+        if re.search(r'(?:^|\s)' + re.escape(loc_lower) + r'(?:\s|$)', q):
+            filters["location"] = locality
+            break
+    
     return filters
 
 
@@ -374,6 +409,10 @@ def build_chroma_where_clause(filters: dict) -> dict:
     
     if "bedrooms" in filters:
         conditions.append({"bedrooms": {"$eq": filters["bedrooms"]}})
+    
+    # Handle locality filter
+    if "location" in filters:
+        conditions.append({"location": {"$eq": filters["location"]}})
     
     if len(conditions) == 0:
         return None
@@ -412,6 +451,50 @@ def ask(request: QueryRequest):
             "answer": get_chitchat_response(query),
             "requires_retrieval": False
         }
+    
+    # ========== HANDLE EDUCATIONAL INTENT (uses documentation collection) ==========
+    if intent == "EDUCATIONAL":
+        if docs_collection is None:
+            return {
+                "intent": intent,
+                "answer": "I'm sorry, the documentation database is not available yet. Please ask about specific properties instead.",
+                "requires_retrieval": False
+            }
+        
+        # Query the documentation collection
+        try:
+            results = docs_collection.query(
+                query_texts=[query],
+                n_results=3
+            )
+            
+            if not results['documents'][0]:
+                return {
+                    "intent": intent,
+                    "answer": "I couldn't find relevant documentation for your question. Try asking about EMI calculation, tax benefits, or how buy vs rent decisions work.",
+                    "requires_retrieval": True
+                }
+            
+            # Combine documentation chunks for context
+            docs_context = "\n\n---\n\n".join(results['documents'][0])
+            sources = [m.get('section', m.get('source_file', 'Documentation')) for m in results['metadatas'][0]]
+            
+            # Generate explanation using the documentation
+            answer = generate_answer(query, results['documents'][0], intent="EDUCATIONAL")
+            
+            return {
+                "intent": intent,
+                "answer": answer,
+                "sources": sources,
+                "requires_retrieval": True
+            }
+        except Exception as e:
+            print(f"[ERROR] Documentation query failed: {e}")
+            return {
+                "intent": intent,
+                "answer": f"Error retrieving documentation: {str(e)}",
+                "requires_retrieval": False
+            }
 
     # ========== STEP 3: CHECK IF CLARIFICATION NEEDED ==========
     if intent_result.clarification_needed:
@@ -448,6 +531,9 @@ def ask(request: QueryRequest):
         }
     
     where_clause = build_chroma_where_clause(parsed_filters)
+
+    # Debug logging for filter troubleshooting
+    print(f"[FILTERS] Query: '{query}' -> Parsed: {parsed_filters} -> Where: {where_clause}")
     
     # Query is specific enough - run retrieval with filters
     n_results = INITIAL_RESULTS if page == 1 else INITIAL_RESULTS * page
@@ -466,12 +552,34 @@ def ask(request: QueryRequest):
                 n_results=n_results
             )
     except Exception as e:
-        # Fallback to unfiltered query if filter fails
-        print(f"Filter query failed: {e}, falling back to unfiltered")
-        results = collection.query(
-            query_texts=[query],
-            n_results=n_results
-        )
+        print(f"[ERROR] Filter query failed: {e}")
+        # If filtered query fails, retry WITHOUT query_texts (metadata-only filter)
+        # to avoid returning results from wrong localities
+        try:
+            if where_clause:
+                results = collection.query(
+                    query_texts=[query],
+                    n_results=n_results
+                )
+                # Post-filter results to only include matching properties
+                if "location" in parsed_filters:
+                    target_loc = parsed_filters["location"].lower()
+                    filtered_docs = []
+                    filtered_metas = []
+                    for doc, meta in zip(results['documents'][0], results['metadatas'][0]):
+                        if meta.get("location", "").lower() == target_loc:
+                            filtered_docs.append(doc)
+                            filtered_metas.append(meta)
+                    results['documents'] = [filtered_docs[:n_results]]
+                    results['metadatas'] = [filtered_metas[:n_results]]
+        except Exception as e2:
+            print(f"[ERROR] Fallback query also failed: {e2}")
+            return {
+                "intent": intent,
+                "answer": "Something went wrong while searching. Please try again.",
+                "total_results": 0,
+                "properties": []
+            }
 
     # Extract contexts and metadatas
     all_contexts = results['documents'][0] if results['documents'] and results['documents'][0] else []

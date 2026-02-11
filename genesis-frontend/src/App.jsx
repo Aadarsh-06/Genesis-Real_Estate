@@ -1,6 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import MarketSnapshot from "./components/MarketSnapshot";
 import About from "./components/About";
 
@@ -220,7 +221,7 @@ function App() {
             {explanationModal.error && <div className="text-red-400 bg-red-500/10 border border-red-500/30 rounded-xl px-4 py-3">{explanationModal.error}</div>}
             {explanationModal.data && (
               <div className="markdown-content">
-                <ReactMarkdown>{explanationModal.data.explanation}</ReactMarkdown>
+                <ReactMarkdown remarkPlugins={[remarkGfm]}>{explanationModal.data.explanation}</ReactMarkdown>
               </div>
             )}
           </div>
@@ -345,7 +346,7 @@ function App() {
                     ) : (
                       <div>
                         <div className="markdown-content text-sm">
-                          <ReactMarkdown>{m.content}</ReactMarkdown>
+                          <ReactMarkdown remarkPlugins={[remarkGfm]}>{m.content}</ReactMarkdown>
                         </div>
                         {m.properties && m.properties.length > 0 && (
                           <div className="mt-6 pt-4 border-t border-[#00d4ff]/20">

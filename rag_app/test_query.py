@@ -19,7 +19,7 @@ def test_query():
     
     collection = client.get_collection(name=COLLECTION_NAME, embedding_function=ef)
     
-    query_text = "2 BHK in Mumbai under 2 crores"
+    query_text = "3 BHK in Mumbai under 2 crores"
     print(f"❓ Query: '{query_text}'")
     
     results = collection.query(
